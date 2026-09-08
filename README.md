@@ -7,5 +7,4 @@
 
 **Katki Saglayanlar:**
 - Muhammet Ozturk
-- Furkan Kurt
 - Bekir Yildirim
