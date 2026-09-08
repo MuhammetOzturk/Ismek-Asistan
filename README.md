@@ -12,6 +12,7 @@ Projenin iki bileşeni bu gün depoya eklendi:
   - `app/sorgu.py`: `veri/kayitlar/*.json` kayıtlarını yükler; ilçe, kayıt durumu, bölüm, veriliş ve arama filtreleriyle yapısal sorgu (`sorgula`), koşum istatistiği (`istatistik`) ve `ozet.json` ↔ `kayitlar` tutarlılık kapısı (`dogrulama_kapisi`) sunar.
   - `app/api.py`: uç noktalar `GET /health`, `GET /ozet`, `GET /kurslar` ve `GET /programlar/{brans_code}`. Çalıştırma (repo kökünden): `uvicorn app.api:app --port 8000`
   - `requirements.txt`: fastapi, uvicorn, httpx, pytest.
+  - `Dockerfile`: `docker build -f app/Dockerfile -t ismek-sunucu .` (repo kökünden koş; context repo kökü olmalı) → sonra `docker run -d -p 8000:8000 ismek-sunucu`. `ISMEK_VERI_DIR=/ismek/veri` image içinde sabitli.
 - **`veri/`** — `topla.py` çıktısı veri katmanı: `kayitlar/*.json` (5 program kaydı, tek doğruluk kaynağı) ve koşum özeti `ozet.json`.
 
 
