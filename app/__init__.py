@@ -1,0 +1,1 @@
+"""İSMEK eğitim uygulaması paketi (app.sorgu, app.api)."""
