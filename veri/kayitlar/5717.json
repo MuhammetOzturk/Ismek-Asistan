@@ -1,0 +1,81 @@
+{
+  "brans_code": 5717,
+  "program": {
+    "ad": "Temel Saç Kesim Teknikleri",
+    "bolum": "Kuaförlük ve Saç Bakımı",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/temel-sac-kesim/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 80,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; hijyen ve sağlık kurallarına uygun saç kesimi uygulaması yapabilme bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320489,
+      "merkez_id": 936,
+      "merkez_adi": "GÜZELLİK VE SAÇ BAKIM HİZMETLERİ OKULU / BAKIRKÖY",
+      "ilce": "BAKIRKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2026-12-04 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 55,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318903,
+      "merkez_id": 621,
+      "merkez_adi": "MALTEPE ZÜMRÜTEVLER",
+      "ilce": "MALTEPE ZÜMRÜTEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2026-11-30 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 46,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5717",
+    "cekim_ts": "2026-09-04T13:38:41"
+  }
+}

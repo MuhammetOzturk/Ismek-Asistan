@@ -1,0 +1,96 @@
+{
+  "brans_code": 6191,
+  "program": {
+    "ad": "Şeker Hamuru ve Modelleme Teknikleri",
+    "bolum": "Pastacılık",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/seker-hamuru-modelleme/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 220,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; şeker hamuru hazırlama, şekillendirme ve modelleme konularında bilgi vererek; pasta ve kurabiyeleri figürlerle süsleyebilme ve şeker hamurundan yenilebilir figürler ve çiçeklerle yaratıcı ve estetik sunumlar oluşturma yetkinliği kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Pastacılık alanında en az 248 saatlik eğitim almış bu yeterliliğini belgeleyen  adaylar arasından sözlü mülakat ile alım yapılacaktır.18 yaşından küçük katılımcıların \"Veli/Vasi İzin Belgesi\"ne sahip olması gerekmektedir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319557,
+      "merkez_id": 863,
+      "merkez_adi": "FIRINCILIK VE PASTACILIK OKULU / ESENLER",
+      "ilce": "ESENLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-12-28 00:00",
+      "toplam_saat": 220,
+      "haftalik_saat": 18,
+      "kontenjan": 21,
+      "basvuru_sayisi": 35,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317945,
+      "merkez_id": 190,
+      "merkez_adi": "KADIKÖY RASİMPAŞA",
+      "ilce": "KADIKÖY RASİMPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-02-28 00:00",
+      "toplam_saat": 220,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 39,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6191",
+    "cekim_ts": "2026-09-04T13:47:32"
+  }
+}

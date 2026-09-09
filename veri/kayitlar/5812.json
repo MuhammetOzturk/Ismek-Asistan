@@ -1,0 +1,81 @@
+{
+  "brans_code": 5812,
+  "program": {
+    "ad": "Ney Başlangıç A2",
+    "bolum": "Üflemeli Çalgılar",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/ney-a2/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 52,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; çalgıyı tarihsel, yapısal ve kültürel olarak tanıtabilmeyi, temel müzik teorisine ilişkin bilgileri edinebilmeyi, temel düzeyde bir müzik yazısını ritmik olarak deşifre edebilme ve çalgıya ilişkin temel teknik ile teorik bilgi ve becerileri koordineli olarak uygulama becerilerini kazandırmayı amaçlamaktadır\n",
+    "on_kosullar": "Adayların öğrenilmiş eser performansı ve deşifre bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320184,
+      "merkez_id": 202,
+      "merkez_adi": "ÜMRANİYE MİTHATPAŞA",
+      "ilce": "ÜMRANİYE MİTHATPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 4,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317254,
+      "merkez_id": 150,
+      "merkez_adi": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "ilce": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-27 00:00",
+      "bitis": "2027-01-17 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 14,
+      "basvuru_sayisi": 15,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-28 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5812",
+    "cekim_ts": "2026-09-04T13:54:37"
+  }
+}

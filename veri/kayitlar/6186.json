@@ -1,0 +1,134 @@
+{
+  "brans_code": 6186,
+  "program": {
+    "ad": "Açık Hava Ressamlığı",
+    "bolum": "Resim",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/acik-hava-ressamli/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 64,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; açık havada kadraj oluşturma, doğadan gözlem yapma, hızlı resim yapma tekniklerini geliştirme ve ortama uygun malzeme kullanımı konularında bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların resim çizim ve boyama becerileri mülakat ve uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Uygulama Sınavı Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319166,
+      "merkez_id": 16,
+      "merkez_adi": "BAHÇELİEVLER ŞİRİNEVLER",
+      "ilce": "BAHÇELİEVLER ŞİRİNEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2026-11-03 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 16,
+      "kontenjan": 18,
+      "basvuru_sayisi": 19,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318396,
+      "merkez_id": 1138,
+      "merkez_adi": "BEYKOZ KAVACIK",
+      "ilce": "BEYKOZ KAVACIK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-27 00:00",
+      "bitis": "2026-11-29 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 30,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-28 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317671,
+      "merkez_id": 33,
+      "merkez_adi": "BEYLİKDÜZÜ BEYKENT",
+      "ilce": "BEYLİKDÜZÜ BEYKENT",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2026-12-02 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 14,
+      "basvuru_sayisi": 37,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320176,
+      "merkez_id": 1186,
+      "merkez_adi": "SANAT VE TASARIM OKULU / BAKIRKÖY",
+      "ilce": "BAKIRKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2026-11-30 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 34,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6186",
+    "cekim_ts": "2026-09-04T13:49:13"
+  }
+}

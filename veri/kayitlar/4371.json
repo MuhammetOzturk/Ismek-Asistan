@@ -1,0 +1,177 @@
+{
+  "brans_code": 4371,
+  "program": {
+    "ad": "Bilinçli Okuma Atölyesi",
+    "bolum": "Edebiyat, Tarih ve Kültürel Çalışmalar",
+    "seviye": "Farkındalık Kazandırma",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/Bilinçli_Okuma_Atölyesi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 64,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; edebi eserleri edebiyat tarihi kapsamında disiplinler arası bir yöntem ve sanat dallarıyla ilişkilendirerek, edebi eserleri çok yönlü inceleme, bilinçli okuma ve değerlendirme becerilerini kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317194,
+      "merkez_id": 1224,
+      "merkez_adi": "BAHÇELİEVLER 23 NİSAN MİLLİ EGEMENLİK",
+      "ilce": "BAHÇELİEVLER 23 NİSAN MİLLİ EGEMENLİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2027-01-13 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 10,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317203,
+      "merkez_id": 1224,
+      "merkez_adi": "BAHÇELİEVLER 23 NİSAN MİLLİ EGEMENLİK",
+      "ilce": "BAHÇELİEVLER 23 NİSAN MİLLİ EGEMENLİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2027-01-20 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 11,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317414,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 16,
+      "basvuru_sayisi": 37,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "14:10",
+          "bitis": "17:10"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317420,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 16,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317907,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 16,
+      "basvuru_sayisi": 28,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316851,
+      "merkez_id": 1206,
+      "merkez_adi": "K.ÇEKMECE FİLENİN SULTANLARI",
+      "ilce": "K.ÇEKMECE FİLENİN SULTANLARI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 17,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 6,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4371",
+    "cekim_ts": "2026-09-04T13:37:24"
+  }
+}

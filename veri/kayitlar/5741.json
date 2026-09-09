@@ -1,0 +1,129 @@
+{
+  "brans_code": 5741,
+  "program": {
+    "ad": "Bağlama (Bağlama Düzeni) İleri İcra Teknikleri",
+    "bolum": "Telli Çalgılar",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/baglama-ileri-icra/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 128,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı ile katılımcıların, çalgıya ilişkin ileri seviye icra tekniklerini tanıması ve akıcı olarak uygulayabilmesi, ileri seviye notasyonu solfej deşifresini yapabilmesi amaçlanmaktadır.\n",
+    "on_kosullar": "Adayların öğrenilmiş eser performansı ve deşifre bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 315883,
+      "merkez_id": 58,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / FATİH",
+      "ilce": "FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-06-07 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318122,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-06-19 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 20,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319262,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-01 00:00",
+      "bitis": "2027-06-24 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 7,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-01 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "14:00",
+          "bitis": "17:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320874,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-06-28 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 23,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "14:00",
+          "bitis": "17:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5741",
+    "cekim_ts": "2026-09-04T13:54:14"
+  }
+}

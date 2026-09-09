@@ -1,0 +1,182 @@
+{
+  "brans_code": 4500,
+  "program": {
+    "ad": "Oyunculukta Nefes, Ses ve Diksiyon",
+    "bolum": "Oyunculuk",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/Oyunculukta-Nefes-Ses-ve-Diksiyon/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 32,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; oyunculuk, kamera oyunculuğu, seslendirme ve dublaj, sunuculuk ve spikerlik alanlarına giriş yapabilme, konservatuvarların tiyatro ve şan bölümlerine hazırlanabilme ve bu alanlarda teknik altyapı oluşturma becerilerini kazandırmak amacıyla hazırlanmıştır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 315634,
+      "merkez_id": 85,
+      "merkez_adi": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "ilce": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-20 00:00",
+      "bitis": "2026-11-22 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 4,
+      "kontenjan": 18,
+      "basvuru_sayisi": 23,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-21 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 315637,
+      "merkez_id": 85,
+      "merkez_adi": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "ilce": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-20 00:00",
+      "bitis": "2026-11-22 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 4,
+      "kontenjan": 18,
+      "basvuru_sayisi": 23,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-21 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317679,
+      "merkez_id": 641,
+      "merkez_adi": "ÇEKMEKÖY TAŞDELEN",
+      "ilce": "ÇEKMEKÖY TAŞDELEN",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2026-10-20 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 17,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317020,
+      "merkez_id": 138,
+      "merkez_adi": "ÜMRANİYE ATATÜRK",
+      "ilce": "ÜMRANİYE ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-19 00:00",
+      "bitis": "2026-11-28 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 4,
+      "kontenjan": 16,
+      "basvuru_sayisi": 16,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-20 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317026,
+      "merkez_id": 138,
+      "merkez_adi": "ÜMRANİYE ATATÜRK",
+      "ilce": "ÜMRANİYE ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-19 00:00",
+      "bitis": "2026-11-28 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 4,
+      "kontenjan": 16,
+      "basvuru_sayisi": 12,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-20 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318474,
+      "merkez_id": 154,
+      "merkez_adi": "ZEYTİNBURNU 58.BULVAR",
+      "ilce": "ZEYTİNBURNU 58.BULVAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-20 00:00",
+      "bitis": "2026-11-22 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 4,
+      "kontenjan": 18,
+      "basvuru_sayisi": 50,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-21 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 6,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4500",
+    "cekim_ts": "2026-09-04T13:37:31"
+  }
+}

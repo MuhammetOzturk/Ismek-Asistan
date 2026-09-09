@@ -1,0 +1,62 @@
+{
+  "brans_code": 5251,
+  "program": {
+    "ad": "Ocakbaşı Lezzetleri Atölyesi",
+    "bolum": "Aşçılık",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/ocak-basi-lezzetleri/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 32,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; hijyen ve sanitasyon kurallarına uygun şekilde ocakbaşı mutfağına özgü kebap, köfte, pide, lahmacun, salata ve meze çeşitlerinin yapım yöntemleri ve uygulama teknikleri konusunda bilgi ve beceri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316336,
+      "merkez_id": 1078,
+      "merkez_adi": "MUTFAK SANATLARI OKULU / MALTEPE",
+      "ilce": "MALTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2026-10-02 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 16,
+      "kontenjan": 12,
+      "basvuru_sayisi": 29,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5251",
+    "cekim_ts": "2026-09-04T13:42:25"
+  }
+}

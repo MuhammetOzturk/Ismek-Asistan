@@ -1,0 +1,67 @@
+{
+  "brans_code": 5117,
+  "program": {
+    "ad": "Python ile Veri Analizi",
+    "bolum": "Veri Bilimi",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/pythome-veri/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 48,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Python ile veri analizine yönelik programlamaya giriş, değişken tanımlamaları, operatörler, karar kontrol mekanizmaları, döngüler, diziler, metotlar, hata ve hata yönetimi, dosya yönetimi, SQL veritabanı kullanımı, veri analizi ve veri görselleştirme konularında bilgi ve beceriler kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların Python programlama konusundaki temel bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318786,
+      "merkez_id": 33,
+      "merkez_adi": "BEYLİKDÜZÜ BEYKENT",
+      "ilce": "BEYLİKDÜZÜ BEYKENT",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-11-04 00:00",
+      "toplam_saat": 48,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 9,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5117",
+    "cekim_ts": "2026-09-04T13:46:22"
+  }
+}

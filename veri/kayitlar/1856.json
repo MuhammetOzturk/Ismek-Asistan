@@ -1,0 +1,115 @@
+{
+  "brans_code": 1856,
+  "program": {
+    "ad": "Hesap İşi Yapımı",
+    "bolum": "Geleneksel El Nakışları",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/hesap_isi/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 217,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; teorik bilgilerle cansız modellerden kompozisyon oluşturup objenin eskiz çizimini ve gölgelendirmesini yapabilme, uygun malzeme seçimi ve desen hazırlığı ile hesap işi tekniğe uygun olarak belirlenen ürünü işleyebilme, bakım ve onarımını yapabilme bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "18 yaşından küçük adayların programa katılım sağlayabilmeleri için Veli/Vasi İzin Belgesi sunmaları gerekmektedir.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318899,
+      "merkez_id": 903,
+      "merkez_adi": "ATAŞEHİR İÇERENKÖY",
+      "ilce": "ATAŞEHİR İÇERENKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-02-25 00:00",
+      "toplam_saat": 217,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 15,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321150,
+      "merkez_id": 1183,
+      "merkez_adi": "BEYLİKDÜZÜ ZÜBEYDE ANA YAŞAM MERKEZİ",
+      "ilce": "BEYLİKDÜZÜ ZÜBEYDE ANA YAŞAM MERKEZİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-07-06 00:00",
+      "toplam_saat": 217,
+      "haftalik_saat": 6,
+      "kontenjan": 15,
+      "basvuru_sayisi": 15,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321374,
+      "merkez_id": 66,
+      "merkez_adi": "G.O.PAŞA",
+      "ilce": "G.O.PAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-02-22 00:00",
+      "toplam_saat": 217,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 17,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 3,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=1856",
+    "cekim_ts": "2026-09-04T13:39:20"
+  }
+}

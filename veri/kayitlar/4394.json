@@ -1,0 +1,273 @@
+{
+  "brans_code": 4394,
+  "program": {
+    "ad": "İstanbul'un Tarihi: Şehir ve Mekan Kültürü",
+    "bolum": "Edebiyat, Tarih ve Kültürel Çalışmalar",
+    "seviye": "Farkındalık Kazandırma",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/istanbulun_tarihiri_şehir_ve_mekan_kültürü/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 64,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; medeniyetlere başkentlik yapmış İstanbul’un tarihi yapısını tanıtmayı ve kentin tarihi surları, sarayları, müzeleri, evleri, mabedleri, çeşmeleri, okulları, kütüphaneleri, arşivleri gibi unsurlar hakkında farkındalık kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316413,
+      "merkez_id": 640,
+      "merkez_adi": "BAKIRKÖY CEVİZLİK",
+      "ilce": "BAKIRKÖY CEVİZLİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2026-11-16 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 72,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316763,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 41,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "14:00",
+          "bitis": "17:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316769,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 42,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316862,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 29,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321249,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-20 00:00",
+      "bitis": "2027-01-17 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-21 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321250,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-20 00:00",
+      "bitis": "2027-01-17 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 34,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-21 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318184,
+      "merkez_id": 1187,
+      "merkez_adi": "SANAT VE TASARIM OKULU / ÜSKÜDAR",
+      "ilce": "ÜSKÜDAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-01-21 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 14,
+      "basvuru_sayisi": 62,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318190,
+      "merkez_id": 1187,
+      "merkez_adi": "SANAT VE TASARIM OKULU / ÜSKÜDAR",
+      "ilce": "ÜSKÜDAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-01-21 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 14,
+      "basvuru_sayisi": 78,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317436,
+      "merkez_id": 138,
+      "merkez_adi": "ÜMRANİYE ATATÜRK",
+      "ilce": "ÜMRANİYE ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 26,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317456,
+      "merkez_id": 138,
+      "merkez_adi": "ÜMRANİYE ATATÜRK",
+      "ilce": "ÜMRANİYE ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 26,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 10,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4394",
+    "cekim_ts": "2026-09-04T13:37:29"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "brans_code": 5660,
+  "program": {
+    "ad": "Hukuk Sekreterliği",
+    "bolum": "Adalet Hizmetleri",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/hukuk-sekreterlik/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 64,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; hukukun temel kavramları, dava dosyalarının hazırlanması, hukuki belgelerin düzenlenmesi, mahkeme takip işlemleri, müvekkillerle iletişim, etik kurallar ve hukuk ofisi yönetimi konularında bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318327,
+      "merkez_id": 1083,
+      "merkez_adi": "AVCILAR GÜMÜŞPALA",
+      "ilce": "AVCILAR GÜMÜŞPALA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-19 00:00",
+      "bitis": "2027-01-16 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 16,
+      "basvuru_sayisi": 35,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-20 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319978,
+      "merkez_id": 1137,
+      "merkez_adi": "BEYLİKDÜZÜ YAKUPLU",
+      "ilce": "BEYLİKDÜZÜ YAKUPLU",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2026-11-24 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 7,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318006,
+      "merkez_id": 37,
+      "merkez_adi": "BÜYÜKÇEKMECE FATİH",
+      "ilce": "BÜYÜKÇEKMECE FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2026-11-17 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 15,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316681,
+      "merkez_id": 190,
+      "merkez_adi": "KADIKÖY RASİMPAŞA",
+      "ilce": "KADIKÖY RASİMPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2026-11-25 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 22,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 315936,
+      "merkez_id": 197,
+      "merkez_adi": "KARTAL ORHANTEPE",
+      "ilce": "KARTAL ORHANTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-20 00:00",
+      "bitis": "2027-01-17 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 14,
+      "basvuru_sayisi": 26,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-21 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 5,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5660",
+    "cekim_ts": "2026-09-04T13:38:25"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "brans_code": 5029,
+  "program": {
+    "ad": "Türk İşaret Diline (TİD) Giriş",
+    "bolum": "İşaret Dili",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/turk-isaret-dili/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 3,
+  "verilis_sekli": [
+    "Etkileşimli İçerik Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Türk İşaret Dili (TİD) alfabesini ve temel işaretleri öğrenme, işaret diliyle bireylerle temel diyaloglar kurabilme bilgi ve becerilerini kazandırmayı amaçlamaktadır. Program giriş seviyesinde olduğundan, eğitim sonunda verilen Katılım Belgesi herhangi bir kurumda çalışma yeterliliği sağlamamaktadır.",
+    "on_kosullar": "Eğitim programı süresi, video sayısı veya ana konu başlığı sayısı temel alınarak bilgi vermek amacıyla sunulmuştur. Katılımcıların programı tamamlama süresi öğrenme hızına göre değişiklik gösterebilir.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319900,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Etkileşimli İçerik Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "İşaret Dili",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 3,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 237,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5029",
+    "cekim_ts": "2026-09-04T14:02:09"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "brans_code": 5809,
+  "program": {
+    "ad": "Ney Gelişim B1",
+    "bolum": "Üflemeli Çalgılar",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/ney-b1/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 52,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; çalgılarıyla ilgili orta-ileri düzey teknik ve teorik bilgi ve beceriler kazandırmayı, teknik gelişimlerini destekleyecek egzersiz ve etütler sunmayı, müzik teorisi alanında detaylı bilgi vermeyi ve orta-ileri düzey eserleri deşifre etme yetkinliği kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların öğrenilmiş eser performansı ve deşifre bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320180,
+      "merkez_id": 621,
+      "merkez_adi": "MALTEPE ZÜMRÜTEVLER",
+      "ilce": "MALTEPE ZÜMRÜTEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-01-02 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 12,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317850,
+      "merkez_id": 58,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / FATİH",
+      "ilce": "FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2027-01-02 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 8,
+      "basvuru_sayisi": 9,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319194,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-29 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 16,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-30 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319202,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 16,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "14:00",
+          "bitis": "17:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319562,
+      "merkez_id": 145,
+      "merkez_adi": "ÜSKÜDAR ÇENGELKÖY",
+      "ilce": "ÜSKÜDAR ÇENGELKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-12-28 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 18,
+      "basvuru_sayisi": 26,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321093,
+      "merkez_id": 155,
+      "merkez_adi": "ZEYTİNBURNU SEYYİT NİZAM",
+      "ilce": "ZEYTİNBURNU SEYYİT NİZAM",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-01-06 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 6,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5809",
+    "cekim_ts": "2026-09-04T13:47:08"
+  }
+}

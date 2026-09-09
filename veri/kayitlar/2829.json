@@ -1,0 +1,139 @@
+{
+  "brans_code": 2829,
+  "program": {
+    "ad": "Uygulamalı Tiyatro",
+    "bolum": "Oyunculuk",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": "İleri Seviye",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/uygulamali-tiyatro-ileri-seviye/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 176,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcalara bir tiyatro eserini baştan sona hazırlama ve seyirciye sunma becerileri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Tiyatro eğitimi aldığını belgeleyen adayların bilgi ve becerileri uygulama sınavı ve mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Uygulama Sınavı Mülakat",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318819,
+      "merkez_id": 509,
+      "merkez_adi": "KARTAL UĞURMUMCU",
+      "ilce": "KARTAL UĞURMUMCU",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-27 00:00",
+      "bitis": "2027-03-21 00:00",
+      "toplam_saat": 176,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 44,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-28 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319174,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-03-30 00:00",
+      "toplam_saat": 176,
+      "haftalik_saat": 8,
+      "kontenjan": 25,
+      "basvuru_sayisi": 54,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319235,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-01 00:00",
+      "bitis": "2027-04-08 00:00",
+      "toplam_saat": 176,
+      "haftalik_saat": 8,
+      "kontenjan": 25,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-01 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319160,
+      "merkez_id": 275,
+      "merkez_adi": "ŞİLE",
+      "ilce": "ŞİLE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-03-25 00:00",
+      "toplam_saat": 176,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 8,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "18:00",
+          "bitis": "21:10"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:10"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2829",
+    "cekim_ts": "2026-09-04T13:42:06"
+  }
+}

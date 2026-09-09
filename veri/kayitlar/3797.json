@@ -1,0 +1,51 @@
+{
+  "brans_code": 3797,
+  "program": {
+    "ad": "Moda İllüstrasyonu",
+    "bolum": "Stilistlik",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Moda Figürü Çizimi Eğitimi",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/moda-illustrasyonu-moda-figuru-cizimi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 12,
+  "verilis_sekli": [
+    "Etkileşimli İçerik Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; moda figürü çizimi ve renklendirme, renkli kalem ve kolaj çalışmaları, genel kumaş bilgisi ve kumaş çalışmaları, aksesuar çizimi ve renklendirme, moda çizimleri ve trendler, giysi çizimi ve renklendirme ile dosya oluşturma konularında bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Eğitim programı süresi, video sayısı veya ana konu başlığı sayısı temel alınarak bilgi vermek amacıyla sunulmuştur. Katılımcıların programı tamamlama süresi öğrenme hızına göre değişiklik gösterebilir.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319817,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Etkileşimli İçerik Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 12,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 209,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3797",
+    "cekim_ts": "2026-09-04T13:58:36"
+  }
+}

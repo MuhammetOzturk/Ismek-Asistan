@@ -1,0 +1,62 @@
+{
+  "brans_code": 6242,
+  "program": {
+    "ad": "Abiye Elbise ve Nikâh Kıyafeti Dikimi",
+    "bolum": "Giyim",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/abiye-elbise-nikah/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 304,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; temel kadın beden kalıplarını hazırlama, düz dar ve model uygulamalı etek ile kadın ceket kalıplarını oluşturma, abiye elbise ve nikâh kıyafeti dikim teknikleri konusunda bilgi vererek; ölçü alma, kalıp hazırlama, kesim, prova, dikim ve süsleme uygulamalarıyla özgün ve işlevsel kıyafetler tasarlayıp dikebilme yetkinliği kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Giyim Üretiminde Temel İşlemler eğitimi aldığını belgeleyen adayların bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir. 18 yaşından küçük adayların programa katılım sağlayabilmeleri için Veli/Vasi İzin Belgesi sunmaları gerekmektedir.",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi,  katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317063,
+      "merkez_id": 150,
+      "merkez_adi": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "ilce": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-04-20 00:00",
+      "toplam_saat": 304,
+      "haftalik_saat": 12,
+      "kontenjan": 16,
+      "basvuru_sayisi": 80,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 0,
+    "kapali": 1
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6242",
+    "cekim_ts": "2026-09-04T13:47:44"
+  }
+}

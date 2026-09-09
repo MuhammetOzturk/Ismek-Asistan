@@ -1,0 +1,105 @@
+{
+  "brans_code": 3409,
+  "program": {
+    "ad": "Diyet Yiyecek Hazırlama Atölyesi",
+    "bolum": "Aşçılık",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/saglikli-ve-diyet-yiyecek-hazirlama/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 80,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; sağlıklı ve dengeli beslenme ilkeleri doğrultusunda besin öğeleri, beslenme çeşitleri, öğün planlama ve özel beslenme türleri hakkında bilgi kazandırarak, hijyen ve iş güvenliği kurallarına uygun şekilde diyet yiyeceklerin teknik ve uygulamalı olarak hazırlanmasına yönelik temel bilgi ve becerileri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri ön görüşme ile değerlendirilecek olup, programa kabul işlemleri belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Ön Görüşme",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 321194,
+      "merkez_id": 1209,
+      "merkez_adi": "MUTFAK SANATLARI OKULU / PENDİK",
+      "ilce": "PENDİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-11-30 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 50,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319201,
+      "merkez_id": 145,
+      "merkez_adi": "ÜSKÜDAR ÇENGELKÖY",
+      "ilce": "ÜSKÜDAR ÇENGELKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-12-07 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 14,
+      "basvuru_sayisi": 47,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317449,
+      "merkez_id": 153,
+      "merkez_adi": "ZEYTİNBURNU GÖKALP",
+      "ilce": "ZEYTİNBURNU GÖKALP",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2026-12-04 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 43,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 3,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3409",
+    "cekim_ts": "2026-09-04T13:45:33"
+  }
+}

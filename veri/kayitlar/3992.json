@@ -1,0 +1,51 @@
+{
+  "brans_code": 3992,
+  "program": {
+    "ad": "Illustrator 1",
+    "bolum": "Grafik Tasarım",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/uzaktanegitim/uzem-illustrator-programi/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 22,
+  "verilis_sekli": [
+    "Video Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Illustrator programına temel düzeyde giriş yapma, basit çizim ve düzenleme araçlarını kullanma, yazı ve şekil üzerinde temel işlemler gerçekleştirme ile önemli paneller aracılığıyla basit grafik tasarımlar oluşturma konularında bilgi ve beceri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Programa başvuracak adayların eğitim programından verim alabilmeleri için temel tasarım bilgisine ve bilgisayar kullanımı konusunda bilgi ve becerilere sahip olmaları önerilmektedir. \n\nEğitim programı süresi, video sayısı veya ana konu başlığı sayısı temel alınarak bilgi vermek amacıyla sunulmuştur. Katılımcıların programı tamamlama süresi öğrenme hızına göre değişiklik gösterebilir.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319714,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Video Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 22,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 273,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3992",
+    "cekim_ts": "2026-09-04T13:58:57"
+  }
+}

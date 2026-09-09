@@ -1,0 +1,57 @@
+{
+  "brans_code": 3613,
+  "program": {
+    "ad": "Kadife İşi Yapımı",
+    "bolum": "Makine Nakışı",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/kadife_isi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 154,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; kadife işi hakkında teorik bilgi verme, karabaş dikiş makinesi kullanımı ve ayarlarını gösterme, uygun malzeme seçimi ve desen hazırlığı yapma ile tekniğe uygun ürün işlemesi konusunda bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316034,
+      "merkez_id": 85,
+      "merkez_adi": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "ilce": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2027-02-24 00:00",
+      "toplam_saat": 154,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 31,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3613",
+    "cekim_ts": "2026-09-04T13:41:18"
+  }
+}

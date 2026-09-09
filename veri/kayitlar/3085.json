@@ -1,0 +1,62 @@
+{
+  "brans_code": 3085,
+  "program": {
+    "ad": "SketchUp ile İç Mimari",
+    "bolum": "İnşaat Teknolojisi",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Lumion",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/lumion/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 108,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; SketchUp arayüzünü verimli şekilde kullanabilme, modelleme örnekleri üzerinden uygulama yapabilme ve Lumion yazılımı ile render ve animasyon oluşturma bilgi ve becerilerini kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların mimari tasarım, teknik resim, bilgisayar bilgisi ve üç boyutlu düşünebilme becerileri, eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri yazılı sınav ve ön görüşme ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n\nPrograma başvuracak adayların eğitim programından verim alabilmeleri için Enstitü İstanbul İSMEK Uzaktan Eğitim Platformu üzerinden Teknik Resim ve AutoCAD eğitim programlarını tamamlamış olmaları önerilmektedir.",
+    "sinav_bilgisi": "Yazılı Sınav Ön Görüşme",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320402,
+      "merkez_id": 1075,
+      "merkez_adi": "GRAFİK VE TEKNİK TASARIM OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-20 00:00",
+      "bitis": "2026-11-22 00:00",
+      "toplam_saat": 108,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 31,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-21 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3085",
+    "cekim_ts": "2026-09-04T13:43:53"
+  }
+}

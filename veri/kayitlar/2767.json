@@ -1,0 +1,57 @@
+{
+  "brans_code": 2767,
+  "program": {
+    "ad": "Besinlerin Kimyasal Reaksiyonları",
+    "bolum": "Gıda Teknolojileri ve Ar-Ge",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/besinlerin-kimyasal-reaksiyonlari/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 48,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; besinlerin kimyasal reaksiyonları, temel gıda işleme ve saklama yöntemleri ile moleküler mutfak teknikleri ve duyusal analiz yöntemlerini öğretmeyi amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317312,
+      "merkez_id": 92,
+      "merkez_adi": "KAĞITHANE SULTAN SELİM",
+      "ilce": "KAĞITHANE SULTAN SELİM",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2026-12-16 00:00",
+      "toplam_saat": 48,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 16,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2767",
+    "cekim_ts": "2026-09-04T13:40:56"
+  }
+}

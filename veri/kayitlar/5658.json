@@ -1,0 +1,129 @@
+{
+  "brans_code": 5658,
+  "program": {
+    "ad": "Altın Nakış",
+    "bolum": "Modern El Nakışları",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/altin-nakis/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 168,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; geleneksel altın tellerle ve diğer süslemelerle zenginleştirilmiş nakış tekniklerini kullanarak, tekniğe uygun model tasarlama ve desen tasarımları yapabilme bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316514,
+      "merkez_id": 1184,
+      "merkez_adi": "BEYKOZ ANADOLU KAVAĞI",
+      "ilce": "BEYKOZ ANADOLU KAVAĞI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-03-01 00:00",
+      "toplam_saat": 168,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 4,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317273,
+      "merkez_id": 32,
+      "merkez_adi": "ESENYURT",
+      "ilce": "ESENYURT",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2027-03-17 00:00",
+      "toplam_saat": 168,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 20,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316498,
+      "merkez_id": 510,
+      "merkez_adi": "ÜSKÜDAR BAĞLARBAŞI",
+      "ilce": "ÜSKÜDAR BAĞLARBAŞI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2027-03-17 00:00",
+      "toplam_saat": 168,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 24,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317552,
+      "merkez_id": 143,
+      "merkez_adi": "ÜSKÜDAR BULGURLU",
+      "ilce": "ÜSKÜDAR BULGURLU",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-03-12 00:00",
+      "toplam_saat": 168,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 22,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5658",
+    "cekim_ts": "2026-09-04T13:38:22"
+  }
+}

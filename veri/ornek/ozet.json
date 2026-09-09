@@ -1,0 +1,20 @@
+{
+  "koşum": {
+    "baslangic": "2026-09-04T13:35:12",
+    "bitis": "2026-09-04T14:08:37",
+    "not": "ornek kümesi — tam koşumun 5 programlık sabit dilimi (lab fixture)"
+  },
+  "program_sayisi": 5,
+  "atlanan_kayit": 0,
+  "detay_hatasi": 0,
+  "kurs_sayisi": 6,
+  "benzersiz_merkez": 5,
+  "acik_kayit_kurs": 4,
+  "ilce_sayisi": 4,
+  "ilceler": [
+    "ARNAVUTKÖY",
+    "BAHÇELİEVLER",
+    "UZAKTAN EĞİTİM",
+    "ŞİŞLİ"
+  ]
+}

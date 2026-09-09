@@ -1,0 +1,129 @@
+{
+  "brans_code": 3783,
+  "program": {
+    "ad": "Ritim Bilgisi",
+    "bolum": "Vurmalı Çalgılar",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": "THO",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/ritim-bilgisi-tho-thm-bati-muzigi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 52,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; ritim terimleri, nota değerleri, birim zaman, mertebe, usul, usullerin tasnifi, basit usuller ve bunların üçerli şekillerinin deşifresi, dikte bilgi ve becerileri kazandırmayı amaçalamaktadır.\n",
+    "on_kosullar": "Adayların müziksel işitme, müziksel tepki bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318025,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 20,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319152,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "14:00",
+          "bitis": "17:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321143,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-30 00:00",
+      "bitis": "2027-01-20 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 22,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-31 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321183,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-29 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 21,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-30 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3783",
+    "cekim_ts": "2026-09-04T13:52:17"
+  }
+}

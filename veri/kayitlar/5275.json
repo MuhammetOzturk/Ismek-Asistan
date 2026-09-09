@@ -1,0 +1,81 @@
+{
+  "brans_code": 5275,
+  "program": {
+    "ad": "Dantel Anglez Yapımı: Kıyafet Tamamlayıcı Tasarımlar",
+    "bolum": "İğne Oyası ve Dantel Anglez",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/dantel-anglez-kiyafet/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 240,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; giysilerin yaka, kol, etek ucu, paça, cep kapakları gibi kısımlarında otantik ve farklı boyut ile tekniklerde dantel anglez çalışmaları yapabilme bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların dantel anglez teknikleri konusundaki bilgi ve becerileri mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317399,
+      "merkez_id": 622,
+      "merkez_adi": "ATAŞEHİR FERHATPAŞA",
+      "ilce": "ATAŞEHİR FERHATPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-06-16 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 12,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317936,
+      "merkez_id": 53,
+      "merkez_adi": "EYÜPSULTAN",
+      "ilce": "EYÜPSULTAN",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-05-24 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5275",
+    "cekim_ts": "2026-09-04T13:46:27"
+  }
+}

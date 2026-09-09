@@ -1,0 +1,51 @@
+{
+  "brans_code": 6009,
+  "program": {
+    "ad": "Pet Hayvanlarında (Kedi-Köpek) İlk Yardım Bilinçlendirme Eğitimi",
+    "bolum": "Hayvan Yetiştiriciliği ve Bakımı",
+    "seviye": "Farkındalık Kazandırma",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/hayvan-ilk-yardim/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 4,
+  "verilis_sekli": [
+    "Etkileşimli İçerik Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, hayvan sahibi olan ve olmayan katılımcılara; evde ve sokakta karşılaşabilecekleri donma, yanık, zehirlenme, yüksekten düşme gibi durumları ayırt etme becerisi kazandırmayı amaçlamaktadır. Eğitim, katılımcılara ilk yardım müdahale becerisi ve yetkisi kazandırmamaktadır; acil durumlarda veteriner hekim veya uzman sağlık profesyonelinden destek alınması gerekmektedir. Program, acil durumlarla başa çıkma konusunda bilinçlendirme ve önlem alma amacını taşımaktadır.\n",
+    "on_kosullar": "Eğitim programı süresi, video sayısı veya ana konu başlığı sayısı temel alınarak bilgi vermek amacıyla sunulmuştur. Katılımcıların programı tamamlama süresi öğrenme hızına göre değişiklik gösterebilir.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319883,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Etkileşimli İçerik Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 4,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 136,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6009",
+    "cekim_ts": "2026-09-04T14:05:34"
+  }
+}

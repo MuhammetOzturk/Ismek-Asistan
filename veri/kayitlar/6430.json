@@ -1,0 +1,91 @@
+{
+  "brans_code": 6430,
+  "program": {
+    "ad": "Python ile Derin Öğrenme Tabanlı Görüntü ve Doğal Dil İşleme",
+    "bolum": "Yapay Zekâ",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/pythome-derin/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 60,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; derin öğrenme kavramları, yapay sinir ağlarının çalışma prensipleri ve uygulama alanları, doğal dil işleme (Natural Language Processing) süreçleri ile görüntü işleme (Computer Vision) yöntemleri konusunda bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların Python programlama ve makine öğrenmesi konularındaki temel bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316122,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2026-11-01 00:00",
+      "toplam_saat": 60,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 18,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318421,
+      "merkez_id": 1210,
+      "merkez_adi": "YAPAY ZEKÂ VE YENİLİKÇİ TEKNOLOJİLER OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-11-02 00:00",
+      "toplam_saat": 60,
+      "haftalik_saat": 12,
+      "kontenjan": 16,
+      "basvuru_sayisi": 14,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6430",
+    "cekim_ts": "2026-09-04T13:47:56"
+  }
+}

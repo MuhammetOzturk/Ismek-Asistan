@@ -1,0 +1,187 @@
+{
+  "brans_code": 3480,
+  "program": {
+    "ad": "Masal Anlatıcılığı",
+    "bolum": "Eğitimde Çeşitli Uygulamalar ve Yaklaşımlar",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Okul Öncesi",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/Erken_Çocukluk_Dönemi_Çocukları_İçin_Masal_Anlatıcılığı/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 52,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; erken çocukluk döneminde hikâye ve masalın çocuk gelişimine katkısını anlama, eğitimde masal ve hikâye anlatıcılığı tekniklerini kullanma ve çocukların hayal gücünü geliştirme becerileri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317093,
+      "merkez_id": 954,
+      "merkez_adi": "BEYLİKDÜZÜ KAVAKLI",
+      "ilce": "BEYLİKDÜZÜ KAVAKLI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-11-16 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 8,
+      "kontenjan": 14,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316250,
+      "merkez_id": 907,
+      "merkez_adi": "ÇOCUK GELİŞİMİ OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-11-10 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 11,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316400,
+      "merkez_id": 907,
+      "merkez_adi": "ÇOCUK GELİŞİMİ OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2026-11-20 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 8,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 315763,
+      "merkez_id": 1123,
+      "merkez_adi": "FATİH AKŞEMSETTİN",
+      "ilce": "FATİH AKŞEMSETTİN",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2026-11-18 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 5,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316217,
+      "merkez_id": 197,
+      "merkez_adi": "KARTAL ORHANTEPE",
+      "ilce": "KARTAL ORHANTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-30 00:00",
+      "bitis": "2026-11-18 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 13,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-31 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319058,
+      "merkez_id": 832,
+      "merkez_adi": "SULTANGAZİ 50.YIL",
+      "ilce": "SULTANGAZİ 50.YIL",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-11-20 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 7,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 6,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3480",
+    "cekim_ts": "2026-09-04T13:45:40"
+  }
+}

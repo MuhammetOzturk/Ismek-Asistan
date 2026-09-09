@@ -1,0 +1,153 @@
+{
+  "brans_code": 5987,
+  "program": {
+    "ad": "Film Oyunculuğuna Giriş",
+    "bolum": "Oyunculuk",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/flim-oyunculuguna-giris/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 120,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; sahne ve film oyunculuğu arasındaki farklar, role hazırlanma, tiyatro ve film yakın planları arasındaki farklar ile film oyunculuğunun beş sanatı gibi konuları aktarmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların diksiyon ve hikaye anlatıcılığı bilgi ve becerileri uygulama sınavı ve mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Uygulama Sınavı Mülakat",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318834,
+      "merkez_id": 903,
+      "merkez_adi": "ATAŞEHİR İÇERENKÖY",
+      "ilce": "ATAŞEHİR İÇERENKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318839,
+      "merkez_id": 903,
+      "merkez_adi": "ATAŞEHİR İÇERENKÖY",
+      "ilce": "ATAŞEHİR İÇERENKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2027-01-23 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 17,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317278,
+      "merkez_id": 190,
+      "merkez_adi": "KADIKÖY RASİMPAŞA",
+      "ilce": "KADIKÖY RASİMPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-01-21 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 47,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318022,
+      "merkez_id": 190,
+      "merkez_adi": "KADIKÖY RASİMPAŞA",
+      "ilce": "KADIKÖY RASİMPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 34,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317291,
+      "merkez_id": 190,
+      "merkez_adi": "KADIKÖY RASİMPAŞA",
+      "ilce": "KADIKÖY RASİMPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-27 00:00",
+      "bitis": "2027-01-24 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 90,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-28 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 1
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5987",
+    "cekim_ts": "2026-09-04T13:47:16"
+  }
+}

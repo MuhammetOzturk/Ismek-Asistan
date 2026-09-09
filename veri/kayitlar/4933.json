@@ -1,0 +1,62 @@
+{
+  "brans_code": 4933,
+  "program": {
+    "ad": "Evrensel Lezzetler: Fransız Baget Ekmek Yapım Atölyesi",
+    "bolum": "Fırıncılık",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/evrensel-lezzetler-baget-ekmek-yapimi/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 24,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Fransız baget ekmek üretim sürecinde ön hamur ve ekşi maya hazırlama, hamur yoğurma, fermantasyon, şekil verme, pişirme ve muhafaza aşamalarına ilişkin bilgi ve beceri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri ön görüşme ile değerlendirilecek olup, programa kabul işlemleri belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Ön Görüşme",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319413,
+      "merkez_id": 863,
+      "merkez_adi": "FIRINCILIK VE PASTACILIK OKULU / ESENLER",
+      "ilce": "ESENLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2026-10-14 00:00",
+      "toplam_saat": 24,
+      "haftalik_saat": 8,
+      "kontenjan": 21,
+      "basvuru_sayisi": 41,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4933",
+    "cekim_ts": "2026-09-04T13:48:40"
+  }
+}

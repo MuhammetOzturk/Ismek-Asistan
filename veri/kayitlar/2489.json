@@ -1,0 +1,81 @@
+{
+  "brans_code": 2489,
+  "program": {
+    "ad": "Bilgisayarlı Modelistlik",
+    "bolum": "Modelistlik",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": "PolyPattern",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/bilgisayarli-modelistlik-polypatten/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 128,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; bilgisayarlı modelistlikte kullanılan \"PolyPattern\" programını kullanabilme ve program ile kalıp hazırlama bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların modelistlik ve bilgisayar kullanma konusundaki temel bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316417,
+      "merkez_id": 151,
+      "merkez_adi": "ÜSKÜDAR AHMEDİYE",
+      "ilce": "ÜSKÜDAR AHMEDİYE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-02-12 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 8,
+      "kontenjan": 10,
+      "basvuru_sayisi": 11,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319481,
+      "merkez_id": 153,
+      "merkez_adi": "ZEYTİNBURNU GÖKALP",
+      "ilce": "ZEYTİNBURNU GÖKALP",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 8,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2489",
+    "cekim_ts": "2026-09-04T13:52:12"
+  }
+}

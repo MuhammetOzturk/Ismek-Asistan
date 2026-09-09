@@ -1,0 +1,345 @@
+{
+  "brans_code": 5840,
+  "program": {
+    "ad": "Keman (Batı Müziği) Başlangıç A1",
+    "bolum": "Yaylı Çalgılar",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/keman-bari-a1/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 52,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; çalgıyı tarihsel, yapısal ve kültürel olarak tanıyabilme, temel müzik teorisi bilgilerini edinebilme ve temel düzeyde müzik yazısını ritmik olarak deşifre edebilme becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların müziksel işitme, müziksel tepki bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319612,
+      "merkez_id": 1231,
+      "merkez_adi": "BEYOĞLU TOPHANE",
+      "ilce": "BEYOĞLU TOPHANE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-01-06 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 32,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319613,
+      "merkez_id": 1231,
+      "merkez_adi": "BEYOĞLU TOPHANE",
+      "ilce": "BEYOĞLU TOPHANE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-01-06 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 59,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317581,
+      "merkez_id": 58,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / FATİH",
+      "ilce": "FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-01 00:00",
+      "bitis": "2027-01-07 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 49,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-01 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "14:00",
+          "bitis": "17:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318810,
+      "merkez_id": 58,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / FATİH",
+      "ilce": "FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2027-01-02 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 49,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318851,
+      "merkez_id": 150,
+      "merkez_adi": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "ilce": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 36,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318853,
+      "merkez_id": 150,
+      "merkez_adi": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "ilce": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-01-18 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 38,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319402,
+      "merkez_id": 145,
+      "merkez_adi": "ÜSKÜDAR ÇENGELKÖY",
+      "ilce": "ÜSKÜDAR ÇENGELKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2026-12-29 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 18,
+      "basvuru_sayisi": 48,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321342,
+      "merkez_id": 145,
+      "merkez_adi": "ÜSKÜDAR ÇENGELKÖY",
+      "ilce": "ÜSKÜDAR ÇENGELKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2026-12-29 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 18,
+      "basvuru_sayisi": 14,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "14:10",
+          "bitis": "17:10"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318886,
+      "merkez_id": 1221,
+      "merkez_adi": "MALTEPE ÇINAR",
+      "ilce": "MALTEPE ÇINAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-01-02 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317587,
+      "merkez_id": 58,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / FATİH",
+      "ilce": "FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-01 00:00",
+      "bitis": "2027-01-07 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-09-01 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316935,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-01 00:00",
+      "bitis": "2027-01-21 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-09-01 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318221,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-01-16 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316822,
+      "merkez_id": 1106,
+      "merkez_adi": "ŞİŞLİ MECİDİYEKÖY",
+      "ilce": "ŞİŞLİ MECİDİYEKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-29 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-30 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:10"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 8,
+    "kapali": 5
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5840",
+    "cekim_ts": "2026-09-04T13:49:10"
+  }
+}

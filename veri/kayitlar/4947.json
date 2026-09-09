@@ -1,0 +1,62 @@
+{
+  "brans_code": 4947,
+  "program": {
+    "ad": "Woocommerce ile E-Ticaret Sitesi Yapımı",
+    "bolum": "Web Tasarım ve Web Geliştirme",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/woocommerce/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 48,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara WordPress altyapısı üzerinde WooCommerce eklentisini kullanarak sıfırdan bir e-ticaret uygulaması geliştirme bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların bilişim teknolojileri, bilgisayar kullanımı ve Web Geliştirme konusundaki bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318463,
+      "merkez_id": 1210,
+      "merkez_adi": "YAPAY ZEKÂ VE YENİLİKÇİ TEKNOLOJİLER OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-10-26 00:00",
+      "toplam_saat": 48,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 21,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4947",
+    "cekim_ts": "2026-09-04T13:46:16"
+  }
+}

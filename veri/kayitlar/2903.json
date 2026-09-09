@@ -1,0 +1,77 @@
+{
+  "brans_code": 2903,
+  "program": {
+    "ad": "İklimlendirme-Soğutma (İKS) Temel Seviye Teknik Eleman Eğitimi",
+    "bolum": "Teknik Bakım/Onarım Hizmetleri",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/iklimlendirme/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 128,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; alandaki gelişen yeni teknolojiye uyum sağlama, mesleklerinde gelişme ve iklimlendirme ile soğutma sektörüne nitelikli ve donanımlı olarak yetişme bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Eğitim programına, İstanbul’da ikamet eden, 18-45 yaş arası, en az ilkokul mezunu, mesleği olmayan ve meslek değiştirmek veya iklimlendirme alanında kendini geliştirmek isteyenler, ön görüşme ve kontenjan doğrultusunda alınacaktır. Ön görüşmede adayların hedef kitleye uygunluğu, başvuru nedenleri, alana ilgisi ve farkındalığı değerlendirilecektir.",
+    "sinav_bilgisi": "Ön Görüşme",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318885,
+      "merkez_id": 958,
+      "merkez_adi": "İKLİMLENDİRME OKULU / GÜNGÖREN",
+      "ilce": "GÜNGÖREN",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2026-10-08 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 40,
+      "kontenjan": 15,
+      "basvuru_sayisi": 40,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2903",
+    "cekim_ts": "2026-09-04T13:42:08"
+  }
+}

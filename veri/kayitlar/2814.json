@@ -1,0 +1,62 @@
+{
+  "brans_code": 2814,
+  "program": {
+    "ad": "İtalyanca A2 Seviyesi",
+    "bolum": "İtalyanca",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/italyanca_seviye_a2/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 120,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; İtalyanca A2 seviyesinde günlük hayat, yaşanan deneyimler, sağlık ve beslenme, doğa, çevre ve kurallar, bilim, sanat ve teknoloji gibi konularda İtalyanca günlük ifadeleri dinleme, okuma, yazma, konuşma ve iletişim kurma bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman (kitap, defter, sözlük vb.) bilgisi, katılımcılar ile eğitim başladığında paylaşılacak",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 315850,
+      "merkez_id": 1019,
+      "merkez_adi": "DİL OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-27 00:00",
+      "bitis": "2027-01-24 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 62,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-28 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2814",
+    "cekim_ts": "2026-09-04T13:54:29"
+  }
+}

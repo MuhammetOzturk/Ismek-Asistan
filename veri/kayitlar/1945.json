@@ -1,0 +1,81 @@
+{
+  "brans_code": 1945,
+  "program": {
+    "ad": "Mesleki İngilizce",
+    "bolum": "İngilizce",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Bilişim Teknolojileri",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/mesleki_ing_bilisim/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 72,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; donanım, yazılım, ağ sistemleri ve teknik yazışmalar gibi temalar çerçevesinde mesleki terimleri anlayarak İngilizce okuma, dinleme, yazma, konuşma ve iletişim kurma bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar yazılı sınav ve uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman (kitap, defter, sözlük vb.) bilgisi, katılımcılar ile eğitim başladığında paylaşılacak",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 315945,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-02-13 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 13,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 315954,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-02-13 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 12,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=1945",
+    "cekim_ts": "2026-09-04T13:53:19"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "brans_code": 5439,
+  "program": {
+    "ad": "Temel Armoni Bilgisi",
+    "bolum": "Müzik Teorisi",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/temel-armoni/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 52,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; armoni konusunun alt bileşenleri olan aralık bilgisi, akor bilgisi, mod bilgisi, akor yürüyüşleri ve akor serimleme konularında bilgi, beceri ve uygulama yetkinlikleri kazandırmayı, ayrıca eserleri akorlarla çok sesli hale getirme ve akorları belirli bir beğeniye göre düzenleme becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların müziksel işitme, müziksel tepki, müzik teorisi ve deşifre konularındaki bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317799,
+      "merkez_id": 58,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / FATİH",
+      "ilce": "FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2027-01-02 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 8,
+      "basvuru_sayisi": 15,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318727,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-29 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 52,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 38,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-30 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5439",
+    "cekim_ts": "2026-09-04T13:55:42"
+  }
+}

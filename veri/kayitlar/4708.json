@@ -1,0 +1,398 @@
+{
+  "brans_code": 4708,
+  "program": {
+    "ad": "Miyuki Takı Yapımı",
+    "bolum": "Takı Tasarımı ve Yapımı",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/miyuki-taki-yapimi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 240,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; miyuki örme tekniklerini kullanarak modeline uygun takı tasarlama ve ürün oluşturma süreçleri hakkında temel bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317346,
+      "merkez_id": 1224,
+      "merkez_adi": "BAHÇELİEVLER 23 NİSAN MİLLİ EGEMENLİK",
+      "ilce": "BAHÇELİEVLER 23 NİSAN MİLLİ EGEMENLİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-05-20 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 24,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320294,
+      "merkez_id": 756,
+      "merkez_adi": "BAŞAKŞEHİR BAHÇEŞEHİR",
+      "ilce": "BAŞAKŞEHİR BAHÇEŞEHİR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-05-10 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 41,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316504,
+      "merkez_id": 1184,
+      "merkez_adi": "BEYKOZ ANADOLU KAVAĞI",
+      "ilce": "BEYKOZ ANADOLU KAVAĞI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-05-10 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 17,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316740,
+      "merkez_id": 1138,
+      "merkez_adi": "BEYKOZ KAVACIK",
+      "ilce": "BEYKOZ KAVACIK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2027-05-26 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 30,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317450,
+      "merkez_id": 955,
+      "merkez_adi": "BEYLİKDÜZÜ BARIŞ",
+      "ilce": "BEYLİKDÜZÜ BARIŞ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2027-05-26 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 40,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316960,
+      "merkez_id": 1183,
+      "merkez_adi": "BEYLİKDÜZÜ ZÜBEYDE ANA YAŞAM MERKEZİ",
+      "ilce": "BEYLİKDÜZÜ ZÜBEYDE ANA YAŞAM MERKEZİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-05-10 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 24,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316713,
+      "merkez_id": 135,
+      "merkez_adi": "ÇEKMEKÖY MEHMET AKİF",
+      "ilce": "ÇEKMEKÖY MEHMET AKİF",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-05-20 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 42,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317323,
+      "merkez_id": 32,
+      "merkez_adi": "ESENYURT",
+      "ilce": "ESENYURT",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-01-15 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 16,
+      "kontenjan": 16,
+      "basvuru_sayisi": 22,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319443,
+      "merkez_id": 1189,
+      "merkez_adi": "ESENYURT GÜZELYURT",
+      "ilce": "ESENYURT GÜZELYURT",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-05-11 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 31,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319071,
+      "merkez_id": 1188,
+      "merkez_adi": "K.ÇEKMECE ATAKENT KÜLTÜR MERKEZİ",
+      "ilce": "K.ÇEKMECE ATAKENT KÜLTÜR MERKEZİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-05-11 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 32,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316957,
+      "merkez_id": 194,
+      "merkez_adi": "KADIKÖY KOZYATAĞI",
+      "ilce": "KADIKÖY KOZYATAĞI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-05-10 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 95,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320379,
+      "merkez_id": 89,
+      "merkez_adi": "KAĞITHANE GÜRSEL",
+      "ilce": "KAĞITHANE GÜRSEL",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-05-20 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 24,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317883,
+      "merkez_id": 90,
+      "merkez_adi": "KAĞITHANE HAMİDİYE",
+      "ilce": "KAĞITHANE HAMİDİYE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-05-21 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316893,
+      "merkez_id": 934,
+      "merkez_adi": "KAĞITHANE SEYRANTEPE",
+      "ilce": "KAĞITHANE SEYRANTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-05-10 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 18,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316212,
+      "merkez_id": 154,
+      "merkez_adi": "ZEYTİNBURNU 58.BULVAR",
+      "ilce": "ZEYTİNBURNU 58.BULVAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-05-11 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 35,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 15,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4708",
+    "cekim_ts": "2026-09-04T13:37:45"
+  }
+}

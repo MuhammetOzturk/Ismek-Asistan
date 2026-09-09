@@ -1,0 +1,81 @@
+{
+  "brans_code": 5575,
+  "program": {
+    "ad": "0-18 Yaş Duygusal ve Sosyal Gelişim",
+    "bolum": "Çocuk Gelişimi ve Okul Öncesi Eğitimi",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/0-18yas-duygusal-gelisim/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 80,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; 0-18 yaş arası çocukların duygusal ve sosyal gelişimine yönelik tanım ve kavramları açıklayabilme, ergenlik dönemindeki duygusal, sosyal gelişimi ve duygusal zekâyı tanımlayabilme ve bununla birlikte gözlem yoluyla bilgi toplama ve raporlama becerileri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316189,
+      "merkez_id": 907,
+      "merkez_adi": "ÇOCUK GELİŞİMİ OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-02-23 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 14,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "14:10",
+          "bitis": "17:10"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320924,
+      "merkez_id": 151,
+      "merkez_adi": "ÜSKÜDAR AHMEDİYE",
+      "ilce": "ÜSKÜDAR AHMEDİYE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2026-12-09 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 13,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5575",
+    "cekim_ts": "2026-09-04T13:40:26"
+  }
+}

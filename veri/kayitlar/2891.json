@@ -1,0 +1,129 @@
+{
+  "brans_code": 2891,
+  "program": {
+    "ad": "Belgesel Fotoğrafçılığı",
+    "bolum": "Fotoğraf ve Sinematografi",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/belgesel-foto/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 72,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; gözlem ve haber yapma, yapılan haberi fotoğraf karesine aktarabilme, basın fotoğrafçılığının ve belgesel fotoğrafının temel kuralları ile 5N1K'ye uygun kompozisyonlar uygulama bilgi ve becerisi kazandırmayı amaçlamaktadır. \n",
+    "on_kosullar": "Adayların temel seviye fotoğraf bilgi ve becerileri yazılı sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317670,
+      "merkez_id": 1147,
+      "merkez_adi": "FATİH AYVANSARAY SANAT VE TASARIM GALERİSİ",
+      "ilce": "FATİH AYVANSARAY SANAT VE TASARIM GALERİSİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2026-12-07 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 8,
+      "kontenjan": 8,
+      "basvuru_sayisi": 8,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319317,
+      "merkez_id": 509,
+      "merkez_adi": "KARTAL UĞURMUMCU",
+      "ilce": "KARTAL UĞURMUMCU",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2026-12-05 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 19,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320223,
+      "merkez_id": 1186,
+      "merkez_adi": "SANAT VE TASARIM OKULU / BAKIRKÖY",
+      "ilce": "BAKIRKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-02 00:00",
+      "bitis": "2026-12-11 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 13,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-02 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320333,
+      "merkez_id": 1186,
+      "merkez_adi": "SANAT VE TASARIM OKULU / BAKIRKÖY",
+      "ilce": "BAKIRKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-02-22 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2891",
+    "cekim_ts": "2026-09-04T13:53:28"
+  }
+}

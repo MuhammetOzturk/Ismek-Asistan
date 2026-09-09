@@ -1,0 +1,81 @@
+{
+  "brans_code": 4744,
+  "program": {
+    "ad": "Deri Çanta Yapımı",
+    "bolum": "Deri İşlemeciliği",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/kosele-canta-yapimi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 200,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; kalıbı deriye uygulayabilme, kesme, delme ve yüzey süsleme teknikleriyle parçaları birleştirebilme ve tasarıma uygun çanta hazırlayabilme bilgi ve becerileri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların deri süslemeciliği konusundaki bilgi ve becerileri mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318915,
+      "merkez_id": 1221,
+      "merkez_adi": "MALTEPE ÇINAR",
+      "ilce": "MALTEPE ÇINAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-04-16 00:00",
+      "toplam_saat": 200,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 52,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318547,
+      "merkez_id": 109,
+      "merkez_adi": "PENDİK KAVAKPINAR",
+      "ilce": "PENDİK KAVAKPINAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-04-19 00:00",
+      "toplam_saat": 200,
+      "haftalik_saat": 8,
+      "kontenjan": 14,
+      "basvuru_sayisi": 21,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4744",
+    "cekim_ts": "2026-09-04T13:52:22"
+  }
+}

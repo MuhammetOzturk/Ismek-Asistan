@@ -1,0 +1,67 @@
+{
+  "brans_code": 6174,
+  "program": {
+    "ad": "3ds Max ile İç Mekan Modelleme",
+    "bolum": "İnşaat Teknolojisi",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": "V-Ray",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/3ds-icmekan/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 124,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; 3ds Max ve V-Ray yazılımlarını kullanarak iç mekân modelleme ve görselleştirme süreçlerini, mimari elemanların (pencere, kapı, tavan, döşeme, merdiven vb.) modelleme tekniklerinden başlayarak, ışıklandırma, materyal düzenleme ve render ayarlarına kadar geniş kapsamda bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların mimari tasarım, teknik resim, bilgisayar bilgisi ve üç boyutlu düşünebilme becerileri, eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri yazılı sınav sınav ve ön görüşme ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n\nPrograma başvuracak adayların eğitim programından verim alabilmeleri için Enstitü İstanbul İSMEK Uzaktan Eğitim Platformu üzerinden Teknik Resim ve 3ds Max eğitim programlarını tamamlamış olmaları önerilmektedir.",
+    "sinav_bilgisi": "Yazılı Sınav Ön Görüşme",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320401,
+      "merkez_id": 1075,
+      "merkez_adi": "GRAFİK VE TEKNİK TASARIM OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-12-10 00:00",
+      "toplam_saat": 124,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 49,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "14:05",
+          "bitis": "17:05"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "14:05",
+          "bitis": "17:05"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "14:05",
+          "bitis": "17:05"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6174",
+    "cekim_ts": "2026-09-04T13:51:43"
+  }
+}

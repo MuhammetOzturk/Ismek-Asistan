@@ -1,0 +1,62 @@
+{
+  "brans_code": 2445,
+  "program": {
+    "ad": "İngilizce YDS Hazırlık",
+    "bolum": "İngilizce",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/yds-hazirlik-ingilizce/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 100,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcıları; İngilizce kelime bilgisi, dilbilgisel zaman kavramları, bağlaçlı cümle yapıları, dilbilgisel kısaltmalar, okuma-anlama stratejileri ve soru çözüm teknikleri gibi konular doğrultusunda YDS (Yabancı Dil Bilgisi Seviye Tespit Sınavı)’na etkili ve sistemli bir şekilde hazırlanabilmeleri amacıyla desteklemeyi hedeflemektedir.",
+    "on_kosullar": "Adaylar yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman (kitap, defter, sözlük vb.) bilgisi, katılımcılar ile eğitim başladığında paylaşılacak",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 315848,
+      "merkez_id": 197,
+      "merkez_adi": "KARTAL ORHANTEPE",
+      "ilce": "KARTAL ORHANTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-12-21 00:00",
+      "toplam_saat": 100,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 90,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 0,
+    "kapali": 1
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2445",
+    "cekim_ts": "2026-09-04T13:44:39"
+  }
+}

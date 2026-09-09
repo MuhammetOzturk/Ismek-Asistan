@@ -1,0 +1,126 @@
+{
+  "brans_code": 5301,
+  "program": {
+    "ad": "İngilizce A2 Seviyesi Genel Tekrar Atölyesi",
+    "bolum": "İngilizce",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/ingilizce-a2-genel-tekrar/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 36,
+  "verilis_sekli": [
+    "Canlı Ders Tabanlı Uzaktan Eğitim",
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; İngilizce A2 seviyesinde tanışma, günlük rutinler, gelecek planları, geçmiş deneyimler ve zaman yapıları gibi temalar çerçevesinde temel dil bilgisi yapılarını tekrar etme ve pekiştirme bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman (kitap, defter, sözlük vb.) bilgisi, katılımcılar ile eğitim başladığında paylaşılacak",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317154,
+      "merkez_id": 1206,
+      "merkez_adi": "K.ÇEKMECE FİLENİN SULTANLARI",
+      "ilce": "K.ÇEKMECE FİLENİN SULTANLARI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2026-10-20 00:00",
+      "toplam_saat": 36,
+      "haftalik_saat": 12,
+      "kontenjan": 17,
+      "basvuru_sayisi": 42,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320986,
+      "merkez_id": 150,
+      "merkez_adi": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "ilce": "ÜSKÜDAR AZİZ MAHMUT HÜDAYİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2026-11-04 00:00",
+      "toplam_saat": 36,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 52,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316375,
+      "merkez_id": 154,
+      "merkez_adi": "ZEYTİNBURNU 58.BULVAR",
+      "ilce": "ZEYTİNBURNU 58.BULVAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-11-06 00:00",
+      "toplam_saat": 36,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 39,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 3,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5301",
+    "cekim_ts": "2026-09-04T13:41:39"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "brans_code": 3866,
+  "program": {
+    "ad": "InDesign 1",
+    "bolum": "Medya, Basın, Yayın ve Matbaa",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/uzaktanegitim/indesign/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 17,
+  "verilis_sekli": [
+    "Video Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; InDesign programında araç çubuğu ve panelleri kullanabilme, çoklu sayfalarla çalışma, yazı ve paragraf araçlarını kullanabilme ile kayıt ve baskı ayarlarını yapabilme bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Programa başvuracak adayların eğitim programından verim alabilmeleri için temel tasarım bilgisine ve bilgisayar kullanımı konusunda bilgi ve becerilere sahip olmaları önerilmektedir. \n\nEğitim programı süresi, video sayısı veya ana konu başlığı sayısı temel alınarak bilgi vermek amacıyla sunulmuştur. Katılımcıların programı tamamlama süresi öğrenme hızına göre değişiklik gösterebilir.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319724,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Video Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 17,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 75,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3866",
+    "cekim_ts": "2026-09-04T13:58:38"
+  }
+}

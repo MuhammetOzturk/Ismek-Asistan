@@ -1,0 +1,62 @@
+{
+  "brans_code": 6269,
+  "program": {
+    "ad": "Ebru",
+    "bolum": "Geleneksel Türk - İslam Sanatları",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": "1. Seviye",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/ebru-1/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 416,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; kitreli su üzerine öd ilave edilmiş toprak boyalarla ve at kılından yapılmış fırçalar kullanılarak dengeli serpme tekniğiyle oluşturulan desenlerin, Battal, Gel-Git, Taraklı, Şal, Bülbül Yuvası, Kumlu, Kılçıklı ve Hatip gibi geleneksel ebru teknikleriyle kâğıda aktarılması konusunda bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri ön görüşme ile değerlendirilecek olup, programa kabul işlemleri belirlenen kontenjan doğrultusunda gerçekleştirilecektir.18 yaşından küçük adayların programa katılım sağlayabilmeleri için Veli/Vasi İzin Belgesi sunmaları gerekmektedir.",
+    "sinav_bilgisi": "Ön Görüşme",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 321025,
+      "merkez_id": 1187,
+      "merkez_adi": "SANAT VE TASARIM OKULU / ÜSKÜDAR",
+      "ilce": "ÜSKÜDAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-06-21 00:00",
+      "toplam_saat": 416,
+      "haftalik_saat": 12,
+      "kontenjan": 9,
+      "basvuru_sayisi": 45,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 0,
+    "kapali": 1
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6269",
+    "cekim_ts": "2026-09-04T13:40:36"
+  }
+}

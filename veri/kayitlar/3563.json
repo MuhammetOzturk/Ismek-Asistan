@@ -1,0 +1,246 @@
+{
+  "brans_code": 3563,
+  "program": {
+    "ad": "Algoritma ve Programlama Temelleri",
+    "bolum": "Yazılım",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/algoritma/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 32,
+  "verilis_sekli": [
+    "Video Tabanlı Uzaktan Eğitim",
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; programlama dünyasına giriş yapabilmeleri için gerekli olan temel algoritma kurma ve programlama bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların bilişim teknolojileri, bilgisayar kullanımı ve analitik düşünce konusundaki temel bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir. \n",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 315601,
+      "merkez_id": 45,
+      "merkez_adi": "BAŞAKŞEHİR 5. ETAP",
+      "ilce": "BAŞAKŞEHİR 5. ETAP",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2026-11-01 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 9,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317099,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-10-22 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 32,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317472,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2026-10-14 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 23,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318636,
+      "merkez_id": 32,
+      "merkez_adi": "ESENYURT",
+      "ilce": "ESENYURT",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-10-20 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 16,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317820,
+      "merkez_id": 1020,
+      "merkez_adi": "TECH ISTANBUL ŞİŞHANE / BEYOĞLU",
+      "ilce": "BEYOĞLU",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-10-13 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 44,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320682,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Video Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 598,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    },
+    {
+      "kurs_id": 318469,
+      "merkez_id": 1210,
+      "merkez_adi": "YAPAY ZEKÂ VE YENİLİKÇİ TEKNOLOJİLER OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-16 00:00",
+      "bitis": "2026-10-12 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-17 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 7,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3563",
+    "cekim_ts": "2026-09-04T13:41:16"
+  }
+}

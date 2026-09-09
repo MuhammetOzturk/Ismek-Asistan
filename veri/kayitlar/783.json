@@ -1,0 +1,62 @@
+{
+  "brans_code": 783,
+  "program": {
+    "ad": "Bilgisayar Programlama Teknikleri",
+    "bolum": "Yazılım",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/BilgisayarProgramlamaTeknikleri/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 180,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; bilgisayar programlamanın mantığını kurma, algoritma ve akış şemalarını oluşturma bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların bilişim teknolojileri, bilgisayar kullanımı ve analitik düşünce konusundaki temel bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317452,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-01-12 00:00",
+      "toplam_saat": 180,
+      "haftalik_saat": 12,
+      "kontenjan": 15,
+      "basvuru_sayisi": 54,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=783",
+    "cekim_ts": "2026-09-04T13:44:14"
+  }
+}

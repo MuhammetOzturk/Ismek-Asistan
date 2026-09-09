@@ -1,0 +1,225 @@
+{
+  "brans_code": 5335,
+  "program": {
+    "ad": "Üç Boyutlu Rölyef Yapımı",
+    "bolum": "Kabartma (Rölyef)",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/uc-boyutlu-rolyef/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 240,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; üç boyutlu rölyef yapımı için kullanılacak desen veya modeli perspektif kuralına uygun teknik ve renklendirme biçimiyle üç boyutlu sanatsal modele dönüştürme bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320779,
+      "merkez_id": 1142,
+      "merkez_adi": "ATAŞEHİR ATATÜRK",
+      "ilce": "ATAŞEHİR ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-05-11 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 31,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321317,
+      "merkez_id": 756,
+      "merkez_adi": "BAŞAKŞEHİR BAHÇEŞEHİR",
+      "ilce": "BAŞAKŞEHİR BAHÇEŞEHİR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-05-20 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 39,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316962,
+      "merkez_id": 955,
+      "merkez_adi": "BEYLİKDÜZÜ BARIŞ",
+      "ilce": "BEYLİKDÜZÜ BARIŞ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-05-21 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 37,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317975,
+      "merkez_id": 1183,
+      "merkez_adi": "BEYLİKDÜZÜ ZÜBEYDE ANA YAŞAM MERKEZİ",
+      "ilce": "BEYLİKDÜZÜ ZÜBEYDE ANA YAŞAM MERKEZİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-19 00:00",
+      "bitis": "2027-05-22 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 3,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-20 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317282,
+      "merkez_id": 1223,
+      "merkez_adi": "ESENLER YAVUZ SELİM",
+      "ilce": "ESENLER YAVUZ SELİM",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-15 00:00",
+      "bitis": "2027-05-11 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 5,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-16 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316925,
+      "merkez_id": 194,
+      "merkez_adi": "KADIKÖY KOZYATAĞI",
+      "ilce": "KADIKÖY KOZYATAĞI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-05-21 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 29,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318281,
+      "merkez_id": 194,
+      "merkez_adi": "KADIKÖY KOZYATAĞI",
+      "ilce": "KADIKÖY KOZYATAĞI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-05-20 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317557,
+      "merkez_id": 138,
+      "merkez_adi": "ÜMRANİYE ATATÜRK",
+      "ilce": "ÜMRANİYE ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-18 00:00",
+      "bitis": "2027-05-21 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 46,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-19 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 8,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5335",
+    "cekim_ts": "2026-09-04T13:40:19"
+  }
+}

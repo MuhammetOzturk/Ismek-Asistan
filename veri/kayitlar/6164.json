@@ -1,0 +1,264 @@
+{
+  "brans_code": 6164,
+  "program": {
+    "ad": "Makyaj Uygulayıcısı",
+    "bolum": "Makyaj",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/makyaj-uygulayici/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 166,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; hijyen ve sağlık kurallarına uygun şekilde renk ve ışık-gölge bilgisini kavrayabilme, makyaj kozmetiklerini tanıyabilme ve yüz şekline uygun makyaj yapabilme konusunda gerekli bilgi ve becerileri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri ön görüşme ile değerlendirilecek olup, programa kabul işlemleri belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Ön Görüşme",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320129,
+      "merkez_id": 969,
+      "merkez_adi": "BAĞCILAR YILDIZTEPE",
+      "ilce": "BAĞCILAR YILDIZTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-01-07 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 12,
+      "kontenjan": 14,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317097,
+      "merkez_id": 33,
+      "merkez_adi": "BEYLİKDÜZÜ BEYKENT",
+      "ilce": "BEYLİKDÜZÜ BEYKENT",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-01-22 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 12,
+      "kontenjan": 18,
+      "basvuru_sayisi": 73,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316259,
+      "merkez_id": 902,
+      "merkez_adi": "BÜYÜKÇEKMECE MİMAROBA",
+      "ilce": "BÜYÜKÇEKMECE MİMAROBA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-05-05 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 6,
+      "kontenjan": 12,
+      "basvuru_sayisi": 22,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321113,
+      "merkez_id": 641,
+      "merkez_adi": "ÇEKMEKÖY TAŞDELEN",
+      "ilce": "ÇEKMEKÖY TAŞDELEN",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-05-13 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 6,
+      "kontenjan": 15,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320859,
+      "merkez_id": 1228,
+      "merkez_adi": "GÜZELLİK VE SAÇ BAKIM HİZMETLERİ OKULU / PENDİK",
+      "ilce": "PENDİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-04-26 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 6,
+      "kontenjan": 18,
+      "basvuru_sayisi": 24,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316551,
+      "merkez_id": 171,
+      "merkez_adi": "K.ÇEKMECE HALKALI MERKEZ",
+      "ilce": "K.ÇEKMECE HALKALI MERKEZ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-29 00:00",
+      "bitis": "2027-05-11 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 6,
+      "kontenjan": 17,
+      "basvuru_sayisi": 31,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-30 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321513,
+      "merkez_id": 934,
+      "merkez_adi": "KAĞITHANE SEYRANTEPE",
+      "ilce": "KAĞITHANE SEYRANTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-05-14 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 6,
+      "kontenjan": 12,
+      "basvuru_sayisi": 32,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320006,
+      "merkez_id": 904,
+      "merkez_adi": "SULTANBEYLİ HASANPAŞA",
+      "ilce": "SULTANBEYLİ HASANPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2027-01-13 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 12,
+      "kontenjan": 18,
+      "basvuru_sayisi": 22,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320526,
+      "merkez_id": 936,
+      "merkez_adi": "GÜZELLİK VE SAÇ BAKIM HİZMETLERİ OKULU / BAKIRKÖY",
+      "ilce": "BAKIRKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-27 00:00",
+      "bitis": "2027-05-02 00:00",
+      "toplam_saat": 166,
+      "haftalik_saat": 6,
+      "kontenjan": 20,
+      "basvuru_sayisi": 100,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-28 10:00",
+      "gunler": [
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 8,
+    "kapali": 1
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6164",
+    "cekim_ts": "2026-09-04T13:42:53"
+  }
+}

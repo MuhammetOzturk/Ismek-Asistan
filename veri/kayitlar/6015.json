@@ -1,0 +1,62 @@
+{
+  "brans_code": 6015,
+  "program": {
+    "ad": "Dokuma Teknikleri ile Aksesuar Yapımı",
+    "bolum": "Halı Dokuma",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/dokuma-teknikleri/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 232,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; geleneksel ve modern dokuma tekniklerini kullanarak yaratıcılıklarını geliştirme ve bu tekniklerle çeşitli aksesuarlar tasarlama bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319921,
+      "merkez_id": 130,
+      "merkez_adi": "TUZLA YAYLA",
+      "ilce": "TUZLA YAYLA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2027-01-04 00:00",
+      "toplam_saat": 232,
+      "haftalik_saat": 16,
+      "kontenjan": 12,
+      "basvuru_sayisi": 12,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6015",
+    "cekim_ts": "2026-09-04T13:38:52"
+  }
+}

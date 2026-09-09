@@ -1,0 +1,62 @@
+{
+  "brans_code": 3033,
+  "program": {
+    "ad": "Premiere Pro ile Video Kurgu",
+    "bolum": "Hareketli Grafik",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/premiere-pro-video-kurgu/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 56,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Adobe Premiere Pro programını kullanarak televizyon, sosyal medya ve dijital platformlara uygun tanıtım videoları, intro–outro, kamu spotu, ses ve yazı kurgusu, hareketli altyazı (KJ) gibi içerikler hazırlama, ayrıca müzikle senkron video kurgusu ve sunum videosu oluşturma konularında bilgi ve beceri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların temel tasarım bilgisi, bilgisayar, Photoshop ve Illustrator kullanımı bilgi ve becerileri, eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri yazılı sınav ve ön görüşme ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n\nPrograma başvuracak adayların eğitim programından verim alabilmeleri için Enstitü İstanbul İSMEK Uzaktan Eğitim Platformu üzerinden Temel Tasarım İlkeleri, Renk Teorisi ve Armoni eğitim programlarını tamamlamış olmaları önerilmektedir.",
+    "sinav_bilgisi": "Yazılı Sınav Ön Görüşme",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320386,
+      "merkez_id": 1075,
+      "merkez_adi": "GRAFİK VE TEKNİK TASARIM OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-11-10 00:00",
+      "toplam_saat": 56,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 46,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3033",
+    "cekim_ts": "2026-09-04T13:45:04"
+  }
+}

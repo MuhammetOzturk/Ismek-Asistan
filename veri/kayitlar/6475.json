@@ -1,0 +1,105 @@
+{
+  "brans_code": 6475,
+  "program": {
+    "ad": "Kur'an-ı Kerim Tecvidli Okuma 2. Seviye",
+    "bolum": "Arapça",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_5/tecvid-a2/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 64,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Kur’an ilimleri hakkında temel bilgi edinme, Kur’an-ı Kerim’in faziletlerini ve dil özelliklerini tanıma, surelerin isimlerini bilme ile kıraat ve tecvid ilminin kapsamını kavrayarak harflerin sıfat ve mahreçleri, ihfa, izhar, idgam, iklab, med ve kalkale gibi tecvid kurallarını uygulama bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n\nPrograma başvuracak adayların eğitim programından verim alabilmeleri için Enstitü İstanbul İSMEK tarafından verilen Kur'an-ı Kerim Tecvidli Okuma 1. Seviye eğitim programını tamamlamış olmaları önerilmektedir. \n\n18 yaşından küçük adayların programa katılım sağlayabilmeleri için Veli/Vasi İzin Belgesi sunmaları gerekmektedir.",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316934,
+      "merkez_id": 640,
+      "merkez_adi": "BAKIRKÖY CEVİZLİK",
+      "ilce": "BAKIRKÖY CEVİZLİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-02-11 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 15,
+      "basvuru_sayisi": 28,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320309,
+      "merkez_id": 1219,
+      "merkez_adi": "BAŞAKŞEHİR KAYABAŞI",
+      "ilce": "BAŞAKŞEHİR KAYABAŞI",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2027-01-19 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 18,
+      "basvuru_sayisi": 28,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318480,
+      "merkez_id": 112,
+      "merkez_adi": "PENDİK BAHÇELİEVLER",
+      "ilce": "PENDİK BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-02-10 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 4,
+      "kontenjan": 12,
+      "basvuru_sayisi": 12,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 3,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6475",
+    "cekim_ts": "2026-09-04T13:49:31"
+  }
+}

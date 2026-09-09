@@ -1,0 +1,206 @@
+{
+  "brans_code": 3354,
+  "program": {
+    "ad": "Seramik Gelişim",
+    "bolum": "Seramik ve Cam",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/seramik-bicimlendirme-2/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 256,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; plaka yöntemi kullanarak konuya ve mekâna uygun eskiz çizimleri hazırlayabilme, kullanılacak mekâna uygun renklendirebilme, panoyu şekillendirebilme ve uygun kurulukta, tekniğine göre kesme işlemi ile panoyu kontrollü olarak kurutup bisküvi pişirimini yapabilme bilgi ve becerilerini kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adaylar uygulama sınavı ve mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Uygulama Sınavı Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316660,
+      "merkez_id": 1108,
+      "merkez_adi": "FATİH ÇUKURBOSTAN",
+      "ilce": "FATİH ÇUKURBOSTAN",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2027-03-23 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 29,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319537,
+      "merkez_id": 171,
+      "merkez_adi": "K.ÇEKMECE HALKALI MERKEZ",
+      "ilce": "K.ÇEKMECE HALKALI MERKEZ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2027-06-19 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 21,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316651,
+      "merkez_id": 75,
+      "merkez_adi": "K.ÇEKMECE YEŞİLOVA",
+      "ilce": "K.ÇEKMECE YEŞİLOVA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-06-26 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 315670,
+      "merkez_id": 1187,
+      "merkez_adi": "SANAT VE TASARIM OKULU / ÜSKÜDAR",
+      "ilce": "ÜSKÜDAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2027-06-08 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 55,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317018,
+      "merkez_id": 1187,
+      "merkez_adi": "SANAT VE TASARIM OKULU / ÜSKÜDAR",
+      "ilce": "ÜSKÜDAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-06-12 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 43,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318926,
+      "merkez_id": 1187,
+      "merkez_adi": "SANAT VE TASARIM OKULU / ÜSKÜDAR",
+      "ilce": "ÜSKÜDAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-06-10 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 42,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318934,
+      "merkez_id": 1187,
+      "merkez_adi": "SANAT VE TASARIM OKULU / ÜSKÜDAR",
+      "ilce": "ÜSKÜDAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-06-12 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 50,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 7,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3354",
+    "cekim_ts": "2026-09-04T13:48:27"
+  }
+}

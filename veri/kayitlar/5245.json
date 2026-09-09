@@ -1,0 +1,57 @@
+{
+  "brans_code": 5245,
+  "program": {
+    "ad": "Eğitici Oyuncak Yapımı",
+    "bolum": "Eğitimde Çeşitli Uygulamalar ve Yaklaşımlar",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Okul Öncesi",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/egitici-oyuncak-yapimi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 40,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; eğitici oyuncak yapımıyla ilgili temel bilgi ve beceriler kazandırmayı, gelişim alanları ve yaş gruplarına uygun oyuncak yapımı konusunda yetkin bireyler yetiştirmeyi ve yeniliklere ile değişimlere uyum sağlama becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317624,
+      "merkez_id": 902,
+      "merkez_adi": "BÜYÜKÇEKMECE MİMAROBA",
+      "ilce": "BÜYÜKÇEKMECE MİMAROBA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2026-11-30 00:00",
+      "toplam_saat": 40,
+      "haftalik_saat": 4,
+      "kontenjan": 14,
+      "basvuru_sayisi": 3,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5245",
+    "cekim_ts": "2026-09-04T13:38:01"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "brans_code": 1996,
+  "program": {
+    "ad": "Bilgisayarda Kumaş ve Baskı Deseni Tasarımı",
+    "bolum": "Stilistlik",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": "CorelDRAW, Photoshop, Illustrator",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/bilgisayarda_kumas_ve_baski_deseni_tasarimi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 120,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; moda tasarımı alanında Adobe Photoshop, Adobe Illustrator, CorelDRAW programlarını kullanma, dijital ortamda kumaş ve baskı deseni tasarımı çalışmaları hazırlama, varyantlar oluşturarak tasarım için farklı alternatifler sunma, temalara uygun desen tasarlama, özgün desen çalışmaları hazırlama ve kendi tasarımlarından oluşan koleksiyonlar oluşturabilme bilgi ve becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların bilgisayar kullanma konusundaki temel bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317632,
+      "merkez_id": 750,
+      "merkez_adi": "ÇOLPAN İLHAN MODA OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-01-23 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 38,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320876,
+      "merkez_id": 1225,
+      "merkez_adi": "MODA OKULU / KARTAL ",
+      "ilce": "KARTAL",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-01-20 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 8,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320473,
+      "merkez_id": 151,
+      "merkez_adi": "ÜSKÜDAR AHMEDİYE",
+      "ilce": "ÜSKÜDAR AHMEDİYE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-01-23 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 17,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 3,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=1996",
+    "cekim_ts": "2026-09-04T13:49:42"
+  }
+}

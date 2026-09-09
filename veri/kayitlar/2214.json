@@ -1,0 +1,110 @@
+{
+  "brans_code": 2214,
+  "program": {
+    "ad": "Abiye Giysi Kalıpları Hazırlama",
+    "bolum": "Modelistlik",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/abiye-giysileri-kalip-hazirlama/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 240,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; abiye giysi kalıpları hazırlama yöntemleri ve drapaj tekniği kullanarak kalıp oluşturma becerisi kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Temel Tasarım eğitimi aldığını belgeleyen adayların bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi,  katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316677,
+      "merkez_id": 750,
+      "merkez_adi": "ÇOLPAN İLHAN MODA OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2027-01-20 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 16,
+      "kontenjan": 15,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318990,
+      "merkez_id": 750,
+      "merkez_adi": "ÇOLPAN İLHAN MODA OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-05-29 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 53,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316083,
+      "merkez_id": 1109,
+      "merkez_adi": "G.O.PAŞA BARBAROS HAYRETTİN PAŞA",
+      "ilce": "G.O.PAŞA BARBAROS HAYRETTİN PAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-05-24 00:00",
+      "toplam_saat": 240,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 3,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2214",
+    "cekim_ts": "2026-09-04T13:44:32"
+  }
+}

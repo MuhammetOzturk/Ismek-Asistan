@@ -1,0 +1,129 @@
+{
+  "brans_code": 6212,
+  "program": {
+    "ad": "İğne Oyasında İleri Dönüşüm Uygulamaları",
+    "bolum": "İğne Oyası ve Dantel Anglez",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/igne-oyasi-ileri/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 200,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "İğne oyasında ileri dönüşüm, mevcut veya artık iğne oya ürünlerinin yeniden değerlendirilerek farklı ve yaratıcı ürünlere dönüştürme sürecidir. Bu eğitim programı, katılımcılara; atıl durumda bulunan iğne oyası ürünlerini analiz etme, mevcut iğne oyası tekniklerini kullanarak bu ürünleri yeniden tasarlama, farklı materyallerle birleştirme ve özgün tasarımlar oluşturma bilgi ve becerilerini kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların iğne oyası teknikleri konusundaki bilgi ve becerileri uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319360,
+      "merkez_id": 621,
+      "merkez_adi": "MALTEPE ZÜMRÜTEVLER",
+      "ilce": "MALTEPE ZÜMRÜTEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-04-21 00:00",
+      "toplam_saat": 200,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 37,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319023,
+      "merkez_id": 111,
+      "merkez_adi": "PENDİK KURTKÖY",
+      "ilce": "PENDİK KURTKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-04-22 00:00",
+      "toplam_saat": 200,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 13,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319037,
+      "merkez_id": 832,
+      "merkez_adi": "SULTANGAZİ 50.YIL",
+      "ilce": "SULTANGAZİ 50.YIL",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-04-22 00:00",
+      "toplam_saat": 200,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 25,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321164,
+      "merkez_id": 138,
+      "merkez_adi": "ÜMRANİYE ATATÜRK",
+      "ilce": "ÜMRANİYE ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-04-21 00:00",
+      "toplam_saat": 200,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 30,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 4,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6212",
+    "cekim_ts": "2026-09-04T13:50:32"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "brans_code": 2931,
+  "program": {
+    "ad": "Çocuk Gelişimi ve Bakımında Temel Bilgiler ve Etkinlikler",
+    "bolum": "Çocuk Gelişimi ve Okul Öncesi Eğitimi",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/cocuk-gel-bak-temel-bilgi/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 574,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; çocukların gelişimsel özelliklerini ayırt etme ve buna uygun etkinlikler planlama, temel ihtiyaçlarını destekleme, çocuk ruh sağlığı ve davranış yönetimi konularında bilgi sahibi olma, çocukla etkili iletişim kurma becerilerini kullanma ve okul öncesi eğitim programına dayalı etkinlik düzenleme konularında temel bilgi ve beceriler kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 321531,
+      "merkez_id": 56,
+      "merkez_adi": "EYÜPSULTAN İSLAMBEY",
+      "ilce": "EYÜPSULTAN İSLAMBEY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-07-06 00:00",
+      "toplam_saat": 574,
+      "haftalik_saat": 16,
+      "kontenjan": 18,
+      "basvuru_sayisi": 15,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 315790,
+      "merkez_id": 202,
+      "merkez_adi": "ÜMRANİYE MİTHATPAŞA",
+      "ilce": "ÜMRANİYE MİTHATPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-07-06 00:00",
+      "toplam_saat": 574,
+      "haftalik_saat": 16,
+      "kontenjan": 16,
+      "basvuru_sayisi": 14,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2931",
+    "cekim_ts": "2026-09-04T13:44:57"
+  }
+}

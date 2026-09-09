@@ -1,0 +1,57 @@
+{
+  "brans_code": 5384,
+  "program": {
+    "ad": "Okul Öncesi Zekâ Oyunları",
+    "bolum": "Eğitimde Çeşitli Uygulamalar ve Yaklaşımlar",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/okul-oncesi-zeka/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 50,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; okul öncesi dönemde çocukların analitik ve sistematik düşünme, hızlı karar verme, olasılık mantığı kurma ve yeteneklerini geliştirmeye yönelik zeka oyunları etkinliklerini planlama ve uygulama konularında temel bilgi ve beceriler kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316330,
+      "merkez_id": 907,
+      "merkez_adi": "ÇOCUK GELİŞİMİ OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2026-11-20 00:00",
+      "toplam_saat": 50,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 7,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5384",
+    "cekim_ts": "2026-09-04T13:52:33"
+  }
+}

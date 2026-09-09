@@ -1,0 +1,62 @@
+{
+  "brans_code": 2523,
+  "program": {
+    "ad": "Evrensel Lezzetler: Kruvasan-Danish Çeşitleri Atölyesi",
+    "bolum": "Fırıncılık",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/workshop-croissant/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 48,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; farklı croissant ve danish çeşitlerinin yapımına ilişkin hazırlık, şekillendirme ve pişirme tekniklerini kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318659,
+      "merkez_id": 863,
+      "merkez_adi": "FIRINCILIK VE PASTACILIK OKULU / ESENLER",
+      "ilce": "ESENLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-10-13 00:00",
+      "toplam_saat": 48,
+      "haftalik_saat": 16,
+      "kontenjan": 21,
+      "basvuru_sayisi": 80,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2523",
+    "cekim_ts": "2026-09-04T13:44:43"
+  }
+}

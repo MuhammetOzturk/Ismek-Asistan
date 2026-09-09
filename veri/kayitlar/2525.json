@@ -1,0 +1,57 @@
+{
+  "brans_code": 2525,
+  "program": {
+    "ad": "Pasta Süsleme Atölyesi: Şeker Hamuru ile Çiçek Figürü Modelleme Teknikleri",
+    "bolum": "Pastacılık",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/workshop-sekerhamurucicek/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 48,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; şeker hamuru kullanarak pasta süslemelerinde uygulanan çiçek figürü modelleme tekniklerini öğreterek gül, şakayık, orkide, gelincik, ortanca, lilyum ve İngiliz gülü gibi çiçeklerin şekillendirilmesini uygulamalı olarak yapabilme becerisi kazandırır.",
+    "on_kosullar": "Pastacılık alnında eğitimin aldığını belgeleyen adayların bilgi ve becerileri mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319442,
+      "merkez_id": 863,
+      "merkez_adi": "FIRINCILIK VE PASTACILIK OKULU / ESENLER",
+      "ilce": "ESENLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2026-11-14 00:00",
+      "toplam_saat": 48,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 36,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2525",
+    "cekim_ts": "2026-09-04T13:53:23"
+  }
+}

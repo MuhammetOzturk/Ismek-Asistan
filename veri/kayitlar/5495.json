@@ -1,0 +1,51 @@
+{
+  "brans_code": 5495,
+  "program": {
+    "ad": "Günlük Yaşamda Türk İşaret Dili",
+    "bolum": "İşaret Dili",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": "TİD",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/gunluk-yasamda-turk-isaret/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 6,
+  "verilis_sekli": [
+    "Etkileşimli İçerik Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; günlük yaşam bağlamında aile ve akrabalar, okul ve eğitim, meslekler, sık kullanılan kelimeler ve zaman terimleri gibi temel konularda Türk İşaret Dili ile kelime, cümle, diyalog ve soru yapıları aracılığıyla iletişim kurma becerisi kazandırmayı amaçlamaktadır. Program farkındalık kazandırmaya yönelik olup, eğitim sonunda verilen Katılım Belgesi'nin herhangi bir kuruma sunulmak üzere yeterliliği bulunmamaktadır. ",
+    "on_kosullar": "Eğitim programı süresi, video sayısı veya ana konu başlığı sayısı temel alınarak bilgi vermek amacıyla sunulmuştur. Katılımcıların programı tamamlama süresi öğrenme hızına göre değişiklik gösterebilir.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319700,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Etkileşimli İçerik Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "İşaret Dili",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 6,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 259,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5495",
+    "cekim_ts": "2026-09-04T14:03:28"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "brans_code": 2459,
+  "program": {
+    "ad": "Fransızca B1 Seviyesi",
+    "bolum": "Fransızca",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/fransizca-seviye-b1/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 120,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Fransızca B1 seviyesinde sosyal ortamlarda karşılaşılabilecek diyalogları anlayabilme, kelime ve gramer yapılarını etkin kullanabilme, doğru telaffuz geliştirme, güncel medya içeriklerini takip edebilme, seyahat sırasında ortaya çıkabilecek durumlarla başa çıkabilme ve deneyimlerini sözlü ya da yazılı olarak ifade edebilme yoluyla dinleme, okuma, yazma, konuşma ve iletişim kurma bilgi ve becerileri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar yazılı sınav ve uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman (kitap, defter, sözlük vb.) bilgisi, katılımcılar ile eğitim başladığında paylaşılacak",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320584,
+      "merkez_id": 1185,
+      "merkez_adi": "DİL OKULU / AVCILAR",
+      "ilce": "AVCILAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-01-10 00:00",
+      "toplam_saat": 120,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Pazar",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2459",
+    "cekim_ts": "2026-09-04T13:53:21"
+  }
+}

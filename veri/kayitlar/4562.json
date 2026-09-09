@@ -1,0 +1,154 @@
+{
+  "brans_code": 4562,
+  "program": {
+    "ad": "Metin Çözümleme Atölyesi",
+    "bolum": "Edebiyat, Tarih ve Kültürel Çalışmalar",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/Metin-Çözümleme-Atölyesi/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 32,
+  "verilis_sekli": [
+    "Canlı Ders Tabanlı Uzaktan Eğitim",
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; metin çözümleme yöntemlerini ve aşamalarını öğrenme ve metinleri yapı, anlam ve üslup açısından değerlendirme konularında bilgi ve beceri kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri ön görüşme ile değerlendirilecek olup, programa kabul işlemleri belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Ön Görüşme",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320861,
+      "merkez_id": 1142,
+      "merkez_adi": "ATAŞEHİR ATATÜRK",
+      "ilce": "ATAŞEHİR ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2026-12-05 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 4,
+      "kontenjan": 14,
+      "basvuru_sayisi": 5,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320413,
+      "merkez_id": 85,
+      "merkez_adi": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "ilce": "ATAŞEHİR KÜÇÜKBAKKALKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2026-11-23 00:00",
+      "toplam_saat": 32,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 16,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316632,
+      "merkez_id": 60,
+      "merkez_adi": "FATİH KOCAMUSTAFAPAŞA",
+      "ilce": "FATİH KOCAMUSTAFAPAŞA",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2026-10-26 00:00",
+      "toplam_saat": 24,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 6,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317191,
+      "merkez_id": 1004,
+      "merkez_adi": "İLETİŞİM VE KİŞİSEL GELİŞİM OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-01 00:00",
+      "bitis": "2026-10-22 00:00",
+      "toplam_saat": 24,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 18,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-01 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "13:00",
+          "bitis": "20:30"
+        }
+      ]
+    },
+    {
+      "kurs_id": 317288,
+      "merkez_id": 1132,
+      "merkez_adi": "SANCAKTEPE YAŞAR KEMAL KÜTÜPHANESİ",
+      "ilce": "SANCAKTEPE YAŞAR KEMAL KÜTÜPHANESİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2026-11-18 00:00",
+      "toplam_saat": 24,
+      "haftalik_saat": 4,
+      "kontenjan": 20,
+      "basvuru_sayisi": 7,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 5,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4562",
+    "cekim_ts": "2026-09-04T13:46:13"
+  }
+}

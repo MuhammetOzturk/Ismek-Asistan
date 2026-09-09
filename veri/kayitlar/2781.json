@@ -1,0 +1,81 @@
+{
+  "brans_code": 2781,
+  "program": {
+    "ad": "Güzel Sanatlara Hazırlık",
+    "bolum": "Müzik Teorisi",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": "Müzik",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/Güzel_Sanatlara_Hazırlık_Müzik/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 256,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı ile katılımcılara; konservatuvar, güzel sanatlar fakültesi ve müzik eğitim fakültelerine giriş sınavlarına kapsamlı hazırlık yapma, sınav için gerekli donanımı kazanma konularında bilgi ve beceri kazandırılması amaçlanmaktadır.\n",
+    "on_kosullar": "Adayların müziksel işitme ve müziksel tepki konularındaki bilgi ve becerileri yazılı sınav ve uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 321057,
+      "merkez_id": 58,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / FATİH",
+      "ilce": "FATİH",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-03 00:00",
+      "bitis": "2027-06-12 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 14,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-03 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 321058,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2027-06-26 00:00",
+      "toplam_saat": 256,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 27,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2781",
+    "cekim_ts": "2026-09-04T13:53:27"
+  }
+}

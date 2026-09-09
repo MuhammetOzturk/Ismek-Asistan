@@ -1,0 +1,81 @@
+{
+  "brans_code": 6334,
+  "program": {
+    "ad": "El Nakışı Tasarım ve Üretim Atölyesi",
+    "bolum": "Modern El Nakışları",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/el-nakisi-tasarimi/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 312,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "\"Tasarım ve Üretim Atölyeleri, teknik becerilerini geliştirmiş ve ilgili eğitim programlarını başarıyla tamamlamış katılımcıların, alanlarına uygun özgün ve nitelikli ürünler tasarlayıp üretmelerini sağlamak amacıyla hayata geçirilmiştir.\n\nAtölye sürecinde ortaya çıkan ürünlerin, belirlenen ölçütlere göre değerlendirilerek seçilmesi ve Enstitü İstanbul İSMEK dükkanlarında satışa sunulması hedeflenmektedir. Bu atölyeler ile üretime katılımın teşvik edilmesi, katılımcıların mesleki gelişimlerinin desteklenmesi ve kurumsal sorumluluk anlayışıyla toplumsal faydanın artırılması amaçlanmaktadır.\n\nTasarım ve Üretim Atölyelerinin süreleri değişiklik gösterebilmektedir. Bu nedenle, kayıt işlemi sırasında atölyelerin süresine ilişkin bilgiler kayıt sayfasından kontrol edilmelidir.\"\n",
+    "on_kosullar": "İlgili alanda en az bir temel seviye ve bir uzmanlık seviyesi eğitim aldığını belgeleyen adayların bilgi ve becerileri mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir. Tasarım ve Üretim Atölyelerinin süreleri değişiklik gösterebileceğinden atölyelerin süresine ilişkin bilgiler kayıt sayfasından kontrol edilmelidir.\n",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Tasarım ve Üretim Atölyeleri için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile atölye başladığında paylaşılacaktır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320009,
+      "merkez_id": 640,
+      "merkez_adi": "BAKIRKÖY CEVİZLİK",
+      "ilce": "BAKIRKÖY CEVİZLİK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-25 00:00",
+      "bitis": "2027-06-25 00:00",
+      "toplam_saat": 272,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 23,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-26 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318893,
+      "merkez_id": 138,
+      "merkez_adi": "ÜMRANİYE ATATÜRK",
+      "ilce": "ÜMRANİYE ATATÜRK",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-06-24 00:00",
+      "toplam_saat": 280,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 32,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6334",
+    "cekim_ts": "2026-09-04T13:51:59"
+  }
+}

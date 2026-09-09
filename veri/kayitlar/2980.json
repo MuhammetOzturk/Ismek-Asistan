@@ -1,0 +1,96 @@
+{
+  "brans_code": 2980,
+  "program": {
+    "ad": "Korece A1 Seviyesi",
+    "bolum": "Korece",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/korece_a1/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 136,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Korece A1 seviyesinde ben ve yakın çevrem, günlük yaşam, insanların görünüşleri ve tanımlamaları, zaman ve mekân, sosyal hayat temaları çerçevesinde temel ifadeler kullanma, dinleme, okuma, yazma, konuşma ve iletişim kurma bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman (kitap, defter, sözlük vb.) bilgisi, katılımcılar ile eğitim başladığında paylaşılacak",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320568,
+      "merkez_id": 1185,
+      "merkez_adi": "DİL OKULU / AVCILAR",
+      "ilce": "AVCILAR",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-14 00:00",
+      "bitis": "2026-12-15 00:00",
+      "toplam_saat": 136,
+      "haftalik_saat": 12,
+      "kontenjan": 20,
+      "basvuru_sayisi": 61,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-15 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316065,
+      "merkez_id": 1019,
+      "merkez_adi": "DİL OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2027-02-12 00:00",
+      "toplam_saat": 136,
+      "haftalik_saat": 8,
+      "kontenjan": 20,
+      "basvuru_sayisi": 133,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "14:10",
+          "bitis": "17:10"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "14:10",
+          "bitis": "17:10"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2980",
+    "cekim_ts": "2026-09-04T13:36:36"
+  }
+}

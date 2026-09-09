@@ -1,0 +1,57 @@
+{
+  "brans_code": 6244,
+  "program": {
+    "ad": "Estetik ve Sanat Felsefesi",
+    "bolum": "Resim",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/estetik-sanat/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 64,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; sanatın başlangıcından günümüze algılanışındaki değişimleri felsefi bir bakış açısıyla inceleme, sanatın tanımını, sanat eserinin niteliğini, \"estetik\" ve \"güzel\" gibi kavramların sanatla ilişkisini felsefi kuramlar çerçevesinde ele alarak sanat alanında bilgi ve farkındalık kazandırmayı amaçlamaktadır.\n",
+    "on_kosullar": "Adayların eğitime yönelik ilgi, farkındalık ve başvuru gerekçeleri ön görüşme ile değerlendirilecek olup, programa kabul işlemleri belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Ön Görüşme",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320440,
+      "merkez_id": 1144,
+      "merkez_adi": "BAKIRKÖY RESİM VE HEYKEL ATÖLYESİ",
+      "ilce": "BAKIRKÖY RESİM VE HEYKEL ATÖLYESİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-10-01 00:00",
+      "bitis": "2026-12-10 00:00",
+      "toplam_saat": 64,
+      "haftalik_saat": 8,
+      "kontenjan": 18,
+      "basvuru_sayisi": 46,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-09-01 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6244",
+    "cekim_ts": "2026-09-04T13:57:03"
+  }
+}

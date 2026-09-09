@@ -196,9 +196,9 @@ def sentezle(soru: str, kanitlar: list[dict], yapisal_satirlar: list[dict] | Non
         guncel = (f"\n\nGÜNCEL YAPISAL SORGU SONUCU (tek doğruluk kaynağı — kayıt "
                   f"durumu/tarih/kontenjan için):\n{satir_metni}")
     n = _koleksiyon.count() if _koleksiyon is not None else len(belgeleri_yukle())
-    kapsam = (f"\n\nVERİ KAPSAMI: Elindeki katalog İSMEK'in tam listesi değildir; yalnızca {n} "
-              f"programlık örnek bir dilimdir. Aranan program dilimde yoksa tam katalogda olabilir — "
-              f"gerekirse bunu doğal biçimde belirterek kullanıcıyı İSMEK portalına yönlendir.")
+    kapsam = (f"\n\nVERİ KAPSAMI: Elindeki katalog İSMEK'in {n} programlık aktif eğitim koşumudur. "
+              f"Aranan program burada yoksa dönem sonlanmış ya da henüz açılmamış olabilir — "
+              f"kullanıcıyı güncel liste için İSMEK portalına (enstitu.ibb.istanbul) yönlendirebilirsin.")
     return chat(
         [{"role": "system", "content": SISTEM},
          {"role": "user", "content":

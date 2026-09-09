@@ -1,0 +1,62 @@
+{
+  "brans_code": 6152,
+  "program": {
+    "ad": "Microsoft SQL Server’da Sorgulama Teknikleri",
+    "bolum": "Veri Bilimi",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/microsoft-sorugulama/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 72,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; SQL sorgulama komutları, fonksiyonları ve farklı tablolardan sorgulama yöntemleri gibi temel SQL konularında bilgi ve beceriler kazandırmayı amaçlamaktadır. ",
+    "on_kosullar": "Adayların veri tabanı tasarımı ve mantık konusundaki temel bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 317846,
+      "merkez_id": 1020,
+      "merkez_adi": "TECH ISTANBUL ŞİŞHANE / BEYOĞLU",
+      "ilce": "BEYOĞLU",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-12-03 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 21,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "13:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6152",
+    "cekim_ts": "2026-09-04T13:51:39"
+  }
+}

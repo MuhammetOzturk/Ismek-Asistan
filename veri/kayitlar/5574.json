@@ -1,0 +1,51 @@
+{
+  "brans_code": 5574,
+  "program": {
+    "ad": "Web Tasarım: Bootstrap Kütüphanesi",
+    "bolum": "Web Tasarım ve Web Geliştirme",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_2/web-tasarim-kutuphanesi/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 29,
+  "verilis_sekli": [
+    "Video Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; Bootstrap kütüphanesi ile mobil cihazlarla uyumlu web siteleri hazırlama bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Programa başvuracak adayların eğitim programından verim alabilmeleri için bilişim teknolojileri, bilgisayar ve internet kullanımı konusunda bilgi ve becerilere sahip olmaları önerilmektedir.\n",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320662,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Video Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 29,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 37,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5574",
+    "cekim_ts": "2026-09-04T14:04:07"
+  }
+}

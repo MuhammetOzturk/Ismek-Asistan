@@ -17,9 +17,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
 
-_TR = str.maketrans({"İ": "i", "I": "ı"})
-
-
+_TR = str.maketrans({"İ": "i", "I": "ı", "â": "a", "Â": "a", "î": "i", "Î": "i",
+                     "û": "u", "Û": "u", "û": "u"})
 def _kucuk(metin: str) -> str:
     """Türkçe duyarsız küçük harf: İ→i, I→ı, sonra casefold.
 

@@ -1,0 +1,96 @@
+{
+  "brans_code": 5089,
+  "program": {
+    "ad": "Mesleki İngilizce",
+    "bolum": "İngilizce",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": "Genel İş İngilizcesi",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/temel-is-ingilizcesi/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 72,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; iş ve meslekler, iş başvuruları, iş yaşamı, sunum yapma, toplantılar, telefon görüşmeleri ve resmi yazışmalar gibi temalar çerçevesinde mesleki bağlamda İngilizce okuma, dinleme, yazma, konuşma ve iletişim kurma bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar yazılı sınav ve uygulama sınavı ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Yazılı Sınav Uygulama Sınavı",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman (kitap, defter, sözlük vb.) bilgisi, katılımcılar ile eğitim başladığında paylaşılacak",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316360,
+      "merkez_id": 1019,
+      "merkez_adi": "DİL OKULU / ŞİŞLİ",
+      "ilce": "ŞİŞLİ",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-11-06 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 12,
+      "kontenjan": 20,
+      "basvuru_sayisi": 52,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:10"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "18:00",
+          "bitis": "21:10"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "18:00",
+          "bitis": "21:10"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318640,
+      "merkez_id": 1145,
+      "merkez_adi": "SARIYER",
+      "ilce": "SARIYER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-26 00:00",
+      "bitis": "2026-12-06 00:00",
+      "toplam_saat": 72,
+      "haftalik_saat": 8,
+      "kontenjan": 16,
+      "basvuru_sayisi": 21,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-27 10:00",
+      "gunler": [
+        {
+          "gun": "Cumartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        },
+        {
+          "gun": "Pazar",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5089",
+    "cekim_ts": "2026-09-04T13:51:22"
+  }
+}

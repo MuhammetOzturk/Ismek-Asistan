@@ -1,0 +1,63 @@
+{
+  "brans_code": 4953,
+  "program": {
+    "ad": "CISCO Siber Güvenlik Temelleri",
+    "bolum": "Sistem ve Ağ Teknolojileri",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Cybersecurity Essentials",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/cisco-ag-temelleri/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 70,
+  "verilis_sekli": [
+    "Canlı Ders + Etkileşimli İçerik Tabanlı Uzaktan Eğitim",
+    "Harmanlanmış(Yüz Yüze + Uzaktan) Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; ağ teknolojileri şirketi Cisco’nun Networking Academy sisteminde yer alan eğitimler kapsamında, siber güvenlik temelleri konusunda bilgi ve beceriler kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Programa başvuracak adayların eğitim programından verim alabilmeleri için bilişim teknolojileri, ağ teknolojileri, bilgisayar ve internet kullanımı konusunda bilgi ve becerilere sahip olmaları önerilmektedir.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316466,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Harmanlanmış(Yüz Yüze + Uzaktan) Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2026-11-20 00:00",
+      "toplam_saat": 70,
+      "haftalik_saat": 8,
+      "kontenjan": 50,
+      "basvuru_sayisi": 65,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=4953",
+    "cekim_ts": "2026-09-04T13:42:22"
+  }
+}

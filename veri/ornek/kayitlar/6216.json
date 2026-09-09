@@ -1,0 +1,62 @@
+{
+  "brans_code": 6216,
+  "program": {
+    "ad": "Kahve Yapımı Ve Sunumu",
+    "bolum": "İçecek ve Miksoloji",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/kahve-yapimi-sunumu/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 130,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; kahve çeşitleri, pişirme ve demleme teknikleri, sunum yöntemleri, kahve makinelerinin kullanımı, süt işleme teknikleri ve içecek menüsü tasarımı gibi uygulamalı konularda bilgi ve beceri kazandırmayı; ayrıca kahvenin kültürel ve tarihi boyutlarına dair farkındalık kazandırarak alana yönelik kapsamlı bir perspektif edinmelerini sağlamayı amaçlamaktadır.",
+    "on_kosullar": "Adaylar mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir. 18 yaşından küçük adayların programa katılım sağlayabilmeleri için Veli/Vasi İzin Belgesi sunmaları gerekmektedir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319209,
+      "merkez_id": 1077,
+      "merkez_adi": "MUTFAK SANATLARI OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-12-17 00:00",
+      "toplam_saat": 130,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 60,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 0,
+    "kapali": 1
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6216",
+    "cekim_ts": "2026-09-04T13:51:48"
+  }
+}

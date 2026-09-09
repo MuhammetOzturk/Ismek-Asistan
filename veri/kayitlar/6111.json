@@ -1,0 +1,51 @@
+{
+  "brans_code": 6111,
+  "program": {
+    "ad": "CISCO İşletim Sistemleri Temelleri",
+    "bolum": "Sistem ve Ağ Teknolojileri",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Operating Systems Basics",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/cisco-a10/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 12,
+  "verilis_sekli": [
+    "Etkileşimli İçerik Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; ağ teknolojileri şirketi Cisco’nun Networking Academy sisteminde yer alan eğitimler kapsamında, işletim sistemlerinin (OS) temel prensiplerini öğreterek Windows, Linux, macOS, Android ve iOS gibi işletim sistemlerinin kişisel bilgisayarlar, akıllı telefonlar, oyun konsolları ve akıllı televizyonlarda nasıl çalıştığını anlama konusunda bilgi ve beceriler kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Programa başvuracak adayların eğitim programından verim alabilmeleri için bilişim teknolojileri, bilgisayar ve internet kullanımı konusunda bilgi ve becerilere sahip olmaları önerilmektedir.  ",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320743,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Etkileşimli İçerik Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "İngilizce",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 12,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 46,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6111",
+    "cekim_ts": "2026-09-04T14:06:36"
+  }
+}

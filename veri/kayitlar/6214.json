@@ -1,0 +1,101 @@
+{
+  "brans_code": 6214,
+  "program": {
+    "ad": "Pastacı",
+    "bolum": "Pastacılık",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/pastaci/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 534,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; hijyen ve sanitasyon kurallarına uygun çalışma alışkanlıkları edinerek mutfakta güvenli ve verimli bir şekilde çalışmayı, hamur tatlıları, sütlü tatlılar, tahıl tatlıları, yaş pastalar ve dünya mutfağından pastane ürünleri gibi geniş bir yelpazede ürün hazırlama tekniklerini öğrenmeyi, çikolata işleme, pasta süsleme ve dekoratif teknikler ile yaratıcılıklarını geliştirip profesyonel sunum becerileri kazanmalarını ve iş organizasyonu, kalite yönetimi ve çevre koruma gibi profesyonel mutfak çalışma prensipleri doğrultusunda pastacılık sektöründe başarılı bir kariyer için gerekli donanımı edinmelerini amaçlamaktadır.",
+    "on_kosullar": "Pastacılık alanında en az 248 saatlik eğitim almış bu yeterliliğini belgeleyen  adaylar arasından sözlü mülakat ile alım yapılacaktır. 18 yaşından küçük katılımcıların \"Veli/Vasi İzin Belgesi\"ne sahip olması gerekmektedir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316367,
+      "merkez_id": 1078,
+      "merkez_adi": "MUTFAK SANATLARI OKULU / MALTEPE",
+      "ilce": "MALTEPE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-21 00:00",
+      "bitis": "2027-05-25 00:00",
+      "toplam_saat": 534,
+      "haftalik_saat": 18,
+      "kontenjan": 20,
+      "basvuru_sayisi": 88,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-22 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 319292,
+      "merkez_id": 1077,
+      "merkez_adi": "MUTFAK SANATLARI OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2027-05-27 00:00",
+      "toplam_saat": 534,
+      "haftalik_saat": 18,
+      "kontenjan": 20,
+      "basvuru_sayisi": 100,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "14:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 1
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6214",
+    "cekim_ts": "2026-09-04T13:47:39"
+  }
+}

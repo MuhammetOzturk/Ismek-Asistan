@@ -1,0 +1,51 @@
+{
+  "brans_code": 6392,
+  "program": {
+    "ad": "Sağlık Kurumlarında Türk İşaret Dili",
+    "bolum": "İşaret Dili",
+    "seviye": "Kişisel Gelişim Eğitimi",
+    "alan": "TİD",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/saglik-dil/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 2,
+  "verilis_sekli": [
+    "Video Tabanlı Uzaktan Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; sağlık alanında Türk İşaret Dili ile iletişim becerilerini geliştirmeye yönelik olarak vücut bölümleri, genel sağlık terimleri, hastalık ve belirtilerle ilgili işaretlerin kullanımını öğretmeyi ve bu bağlamlarda örnek diyaloglar aracılığıyla temel düzey TİD iletişim yetkinliği kazandırmayı amaçlamaktadır. Program farkındalık kazandırmaya yönelik olup, eğitim sonunda verilen Katılım Belgesi'nin herhangi bir kuruma sunulmak üzere yeterliliği bulunmamaktadır. \n",
+    "on_kosullar": "Eğitim programı süresi, video sayısı veya ana konu başlığı sayısı temel alınarak bilgi vermek amacıyla sunulmuştur. Katılımcıların programı tamamlama süresi öğrenme hızına göre değişiklik gösterebilir.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bilgisi bulunmamaktadır.\n\n\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319905,
+      "merkez_id": 1002,
+      "merkez_adi": "UZAKTAN EĞİTİM",
+      "ilce": "UZAKTAN EĞİTİM",
+      "verilis_sekli": "Video Tabanlı Uzaktan Eğitim",
+      "egitim_dili": "İşaret Dili",
+      "baslangic": "2026-09-01 00:00",
+      "bitis": "2026-12-31 00:00",
+      "toplam_saat": 2,
+      "haftalik_saat": 0,
+      "kontenjan": 20000,
+      "basvuru_sayisi": 111,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-02 10:00",
+      "gunler": []
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6392",
+    "cekim_ts": "2026-09-04T14:07:52"
+  }
+}

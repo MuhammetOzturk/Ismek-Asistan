@@ -1,0 +1,62 @@
+{
+  "brans_code": 2534,
+  "program": {
+    "ad": "Özel Gün Pastaları",
+    "bolum": "Pastacılık",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/profekmek-ozelgunpasta/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 208,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; özel gün temalı pastaların üretiminde kullanılan malzemeler, ekipmanlar ve teknikler hakkında bilgi vererek yaş pasta, şeker hamuru kaplamalı pasta ve maket pasta çeşitlerinin planlama, hazırlık, kaplama, süsleme ve sunum süreçlerini uygulamalı olarak yapabilme becerisi kazandırır.",
+    "on_kosullar": "Pastacılık alanında en az 248 saatlik eğitim aldığını belgeleyen adayların bilgi ve becerileri mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Mülakat",
+    "malzeme_ekipman": "Bu program için katılımcıların ihtiyaç duyacağı ve kendisi tarafından tedarik edilmesi gereken malzeme ve ekipman bilgisi, katılımcılar ile eğitim başladığında paylaşılacaktır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 319573,
+      "merkez_id": 863,
+      "merkez_adi": "FIRINCILIK VE PASTACILIK OKULU / ESENLER",
+      "ilce": "ESENLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2027-04-22 00:00",
+      "toplam_saat": 208,
+      "haftalik_saat": 8,
+      "kontenjan": 21,
+      "basvuru_sayisi": 100,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Cuma",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2534",
+    "cekim_ts": "2026-09-04T13:50:59"
+  }
+}

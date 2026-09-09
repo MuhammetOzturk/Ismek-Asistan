@@ -1,0 +1,62 @@
+{
+  "brans_code": 6227,
+  "program": {
+    "ad": "Ebeveynlik Halleri 101: Çocukla Etkili Zaman Geçirme",
+    "bolum": "Aile Eğitimleri",
+    "seviye": "Farkındalık Kazandırma",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_4/ebeveinlik-cocuk/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 16,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; erken çocukluk dönemi, 0–8 yaş aralığındaki çocuklarla etkili ve verimli zaman geçirme yöntemlerini öğrenerek, çocukların gelişim süreçlerine daha bilinçli katkı sunma bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Bu programa katılmak için herhangi bir ön koşul bulunmamaktadır.",
+    "sinav_bilgisi": "Sınavsız",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320301,
+      "merkez_id": 136,
+      "merkez_adi": "ÜMRANİYE DUDULLU",
+      "ilce": "ÜMRANİYE DUDULLU",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-17 00:00",
+      "bitis": "2026-10-02 00:00",
+      "toplam_saat": 16,
+      "haftalik_saat": 16,
+      "kontenjan": 18,
+      "basvuru_sayisi": 5,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-18 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "09:00",
+          "bitis": "16:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 1,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=6227",
+    "cekim_ts": "2026-09-04T13:42:54"
+  }
+}

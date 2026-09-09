@@ -1,0 +1,91 @@
+{
+  "brans_code": 1849,
+  "program": {
+    "ad": "Web Tabanlı İçerik Yönetim Sistemleri",
+    "bolum": "Web Tasarım ve Web Geliştirme",
+    "seviye": "Mesleki Destekleyici Eğitim",
+    "alan": "Wordpress",
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/web_tabanli_icerik_yonetim_sistemleri/1-600.jpg",
+    "belge_id": 1
+  },
+  "sure_saat": 92,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; WordPress içerik yönetim sisteminde şablon, eklenti ve modülleri kullanarak web uygulamaları geliştirme bilgi ve becerisi kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Adayların bilişim teknolojileri ve bilgisayar kullanımı konusundaki bilgi ve becerileri yazılı sınav ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.\n",
+    "sinav_bilgisi": "Yazılı Sınav",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 316084,
+      "merkez_id": 1076,
+      "merkez_adi": "BİLİŞİM TEKNOLOJİLERİ OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-24 00:00",
+      "bitis": "2026-12-25 00:00",
+      "toplam_saat": 92,
+      "haftalik_saat": 8,
+      "kontenjan": 12,
+      "basvuru_sayisi": 8,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-25 10:00",
+      "gunler": [
+        {
+          "gun": "Cuma",
+          "baslangic": "14:05",
+          "bitis": "17:05"
+        },
+        {
+          "gun": "Perşembe",
+          "baslangic": "14:05",
+          "bitis": "17:05"
+        }
+      ]
+    },
+    {
+      "kurs_id": 316510,
+      "merkez_id": 151,
+      "merkez_adi": "ÜSKÜDAR AHMEDİYE",
+      "ilce": "ÜSKÜDAR AHMEDİYE",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-23 00:00",
+      "bitis": "2026-12-03 00:00",
+      "toplam_saat": 92,
+      "haftalik_saat": 12,
+      "kontenjan": 12,
+      "basvuru_sayisi": 8,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-24 10:00",
+      "gunler": [
+        {
+          "gun": "Perşembe",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        },
+        {
+          "gun": "Çarşamba",
+          "baslangic": "16:30",
+          "bitis": "21:10"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=1849",
+    "cekim_ts": "2026-09-04T13:49:38"
+  }
+}

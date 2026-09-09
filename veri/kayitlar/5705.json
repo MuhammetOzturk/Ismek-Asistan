@@ -1,0 +1,81 @@
+{
+  "brans_code": 5705,
+  "program": {
+    "ad": "Enstitü İstanbul İSMEK Türk Halk Dansları Topluluğu",
+    "bolum": "Dans",
+    "seviye": "Sanat / Zanaat Eğitimi",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri_3/danslar-toplulugu/1-600.jpg",
+    "belge_id": 6
+  },
+  "sure_saat": 256,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Enstitü İstanbul İSMEK Türk Halk Dansları Topluluğu\"  halk oyunları kültürünün yaşatılıp gelecek kuşaklara akatarılması, bireysel ve toplu olarak dansların geleneksel formlara göre uygulanabilmesi, katılımcıların beden dili gelişimlerini sağlayarak yöresel hareket ve varyasyon farklılıklarına göre melodik ve ritmik yapıyla birleşik analitik uygulamalar yapmak ve sahnelemek amacıyla katılımcılar ve eğitmenlerden oluşan bir topluluktur.\n",
+    "on_kosullar": "Adayların ileri seviye Türk Halk Dansları bilgi ve becerileri uygulama sınavı ve mülakat ile değerlendirilecek olup, programa kabul işlemleri başarı sıralaması ve belirlenen kontenjan doğrultusunda gerçekleştirilecektir.",
+    "sinav_bilgisi": "Uygulama Sınavı Mülakat",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.\n",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 318196,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2027-06-28 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 4,
+      "kontenjan": 25,
+      "basvuru_sayisi": 125,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 318219,
+      "merkez_id": 83,
+      "merkez_adi": "MÜZİK VE GÖSTERİ SANATLARI OKULU / KADIKÖY",
+      "ilce": "KADIKÖY",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-30 00:00",
+      "bitis": "2027-06-30 00:00",
+      "toplam_saat": 128,
+      "haftalik_saat": 4,
+      "kontenjan": 25,
+      "basvuru_sayisi": 125,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": false,
+      "kayit_acilis": "2026-08-31 10:00",
+      "gunler": [
+        {
+          "gun": "Çarşamba",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 0,
+    "kapali": 2
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=5705",
+    "cekim_ts": "2026-09-04T13:55:00"
+  }
+}

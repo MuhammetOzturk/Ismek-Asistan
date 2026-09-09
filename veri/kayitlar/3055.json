@@ -1,0 +1,91 @@
+{
+  "brans_code": 3055,
+  "program": {
+    "ad": "After Effects ile Görsel Efekt ve Hareketli Grafik",
+    "bolum": "Hareketli Grafik",
+    "seviye": "İstihdam Hedefli Mesleki Eğitim",
+    "alan": null,
+    "dal": null,
+    "resim_url": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/after-effects-İle-görsel/1-600.jpg",
+    "belge_id": 4
+  },
+  "sure_saat": 80,
+  "verilis_sekli": [
+    "Yüz Yüze Eğitim"
+  ],
+  "icerik": {
+    "amac": "Bu eğitim programı, katılımcılara; After Effects konfigürasyonlarını kullanarak yazı, ses, görüntü ve grafiklerin etkileyici ve akıcı bir şekilde birleştirildiği, çeşitli ortamlarda sunulabilen hareketli grafikler tasarlama süreçlerine ilişkin bilgi ve beceri kazandırmayı amaçlamaktadır.",
+    "on_kosullar": "Eğitim programının öngördüğü temel becerileri gerçekleştirebilecek yeterliliğe (fiziksel, psiko-motor) sahip olmak, en az ilkokul mezunu olmak gerekmektedir.\nTercihen, sektörde çalışma isteği bulunan/çalışan ve kendini geliştirmek isteyen adayların; temel tasarım, bilgisayar bilgisine ve Photoshop ve Illustrator yazılımlarını kullanma becerisine sahip olması gerekmektedir.\nEnstitü İstanbul İSMEK Uzaktan Eğitim Platformundan; Temel Tasarım İlkeleri, Renk Teorisi ve Armoni eğitimlerinin alınması önerilmektedir.\nÇoktan seçmeli sınav ve ön görüşme yapılacaktır.",
+    "sinav_bilgisi": "Yazılı Sınav Ön Görüşme",
+    "malzeme_ekipman": "Eğitim için ihtiyaç duyulacak malzeme ve ekipman bulunmamaktadır.",
+    "yas_bilgisi": null
+  },
+  "kurslar": [
+    {
+      "kurs_id": 320385,
+      "merkez_id": 1075,
+      "merkez_adi": "GRAFİK VE TEKNİK TASARIM OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-22 00:00",
+      "bitis": "2026-12-07 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 26,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-23 10:00",
+      "gunler": [
+        {
+          "gun": "Salı",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        },
+        {
+          "gun": "Pazartesi",
+          "baslangic": "09:00",
+          "bitis": "12:00"
+        }
+      ]
+    },
+    {
+      "kurs_id": 320398,
+      "merkez_id": 1075,
+      "merkez_adi": "GRAFİK VE TEKNİK TASARIM OKULU / BAHÇELİEVLER",
+      "ilce": "BAHÇELİEVLER",
+      "verilis_sekli": "Yüz Yüze Eğitim",
+      "egitim_dili": "Türkçe",
+      "baslangic": "2026-09-28 00:00",
+      "bitis": "2026-12-08 00:00",
+      "toplam_saat": 80,
+      "haftalik_saat": 8,
+      "kontenjan": 15,
+      "basvuru_sayisi": 29,
+      "kayit_durumu": "Online Açık",
+      "kayit_alma_durumu": true,
+      "kayit_acilis": "2026-08-29 10:00",
+      "gunler": [
+        {
+          "gun": "Pazartesi",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        },
+        {
+          "gun": "Salı",
+          "baslangic": "18:00",
+          "bitis": "21:00"
+        }
+      ]
+    }
+  ],
+  "kayit_ozeti": {
+    "acik": 2,
+    "kapali": 0
+  },
+  "meta": {
+    "kaynak_url": "https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=3055",
+    "cekim_ts": "2026-09-04T13:48:24"
+  }
+}
