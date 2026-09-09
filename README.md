@@ -12,7 +12,7 @@ Projenin iki bileşeni bu gün depoya eklendi:
   - `app/sorgu.py`: `veri/kayitlar/*.json` kayıtlarını yükler; ilçe, kayıt durumu, bölüm, veriliş ve arama filtreleriyle yapısal sorgu (`sorgula`), koşum istatistiği (`istatistik`) ve `ozet.json` ↔ `kayitlar` tutarlılık kapısı (`dogrulama_kapisi`) sunar.
   - `app/api.py`: uç noktalar `GET /health`, `GET /ozet`, `GET /kurslar` ve `GET /programlar/{brans_code}`. Çalıştırma (repo kökünden): `uvicorn app.api:app --port 8000`
   - `requirements.txt`: fastapi, uvicorn, httpx, pytest.
-  - `Dockerfile`: `docker build -f app/Dockerfile -t ismek-sunucu .` (repo kökünden koş; context repo kökü olmalı) → sonra `docker run -d -p 8000:8000 ismek-sunucu`. `ISMEK_VERI_DIR=/ismek/veri` image içinde sabitli.
+  - `Dockerfile`: `docker build -f app/Dockerfile -t ismek-sunucu .` (repo kökünden koş; context repo kökü olmalı) → sonra `docker run -d -p 8000:8000 ismek-sunucu`. `ISMEK_VERI_DIR=/ismek/veri` image içinde sabitli. Gün 3 ile image RAG bağımlılıklarını (torch-CPU, chromadb, sentence-transformers) ve `veri/markdown` belgelerini de içerir; ilk açılışta e5 modeli (~450 MB) Hugging Face'ten iner.
 - **`veri/`** — `topla.py` çıktısı veri katmanı: `kayitlar/*.json` (5 program kaydı, tek doğruluk kaynağı) ve koşum özeti `ozet.json`.
 
 
@@ -24,6 +24,8 @@ Doğal dil sorusu → kanıtlı yanıt hattı (RAG) ve web arayüzü eklendi:
   - `bot/istemci.py`: çok sağlayıcı ücretsiz LLM hattı (Groq > HF > Gemini; 402/429'da sıradakine geçer) + token/maliyet muhasebesi.
   - `bot/sorgu_cozumleyici.py`: Türkçe soru → JSON filtre. Guardrail: LLM çıktısı kullanıcıya içerik olarak gösterilmez, yalnız yapısal sorguya parametre olur.
   - `bot/rag.py`: e5 (`multilingual-e5-small`) vektör araması — ChromaDB üzerinde `veri/markdown/*.md` statik belgeleri (`passage: ` / `query: ` prefix kuralıyla) — ve kanıtlı LLM sentezi.
+  - Yanıt tonu: samimi ve yardımsever — aranan kurs veride yoksa günlük dille söylenip eldeki kanıttan en yakın alternatifler önerilir; "kanıt/filtre/yapısal sorgu" gibi teknik terimler kullanıcıya söylenmez; uydurma yasağı aynen geçerli.
+  - `bot/requirements.txt`: openai, sentence-transformers, chromadb, pytest.
 - **`veri/markdown_uret.py`** — `veri/kayitlar/*.json` içeriğinden statik RAG belgelerini üretir (amaç, ön koşullar, sınav, malzeme). Kayıt durumu/tarih gibi dinamik alanlar bilinçli olarak belgeye konmaz; onlar `app/sorgu.py` yapısal katmanından gelir.
 - **`app/api.py`** — yeni `POST /api/soru`: çözümleyici → yapısal sorgu + vektör arama → sentez; aşama süreleri, token ve maliyet dökümüyle döner. `GET /health` artık program sayısı + model adı verir.
 - **`app/web.py`** — tek sayfa arayüz: doğal dil soru kutusu + örnek soru çipleri (yanıt, vektör kanıt skorları, performans/filtre paneli) ve yapısal filtre formu. Derin bağlantı: `/?soru=...` (RAG) veya `/?kayit=acik` (yapısal).
@@ -36,6 +38,10 @@ python3 veri/markdown_uret.py        # bir kez: veri/markdown/*.md
 python3 bot/rag.py --kur             # bir kez: vektör indeksini kur
 uvicorn app.api:app --port 8000      # http://127.0.0.1:8000
 ```
+
+Veride olmayan bir kurs sorulduğunda asistan uydurmaz; günlük dille söyler ve alternatif önerir:
+
+> **Soru:** "Linux kursu var mi?" → **Yanıt:** "Şu an veri tabanımızda Linux kursu bulunmuyor. İlginizi çekebilecek bazı benzer eğitimlerimiz var: **CISCO Uç Nokta Güvenliği** [BransCode 6094] — ağ ve güvenlik temelleri, **Overlok Makinesi Kullanımı** [BransCode 4386] — kısa ve pratik bir uzaktan eğitim, ..."
 
 Örnek sorgu sonucu — "Butik Çikolata Hazırlama programının amacı nedir, ön koşulu var mı?": yanıt, e5 kanıt skorları ve aşama performansı:
 
