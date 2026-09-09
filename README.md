@@ -24,7 +24,7 @@ Doğal dil sorusu → kanıtlı yanıt hattı (RAG) ve web arayüzü eklendi:
   - `bot/istemci.py`: çok sağlayıcı ücretsiz LLM hattı (Groq > HF > Gemini; 402/429'da sıradakine geçer) + token/maliyet muhasebesi.
   - `bot/sorgu_cozumleyici.py`: Türkçe soru → JSON filtre. Guardrail: LLM çıktısı kullanıcıya içerik olarak gösterilmez, yalnız yapısal sorguya parametre olur.
   - `bot/rag.py`: e5 (`multilingual-e5-small`) vektör araması — ChromaDB üzerinde `veri/markdown/*.md` statik belgeleri (`passage: ` / `query: ` prefix kuralıyla) — ve kanıtlı LLM sentezi.
-  - Yanıt tonu: samimi ve yardımsever — aranan kurs veride yoksa günlük dille söylenip eldeki kanıttan en yakın alternatifler önerilir; "kanıt/filtre/yapısal sorgu" gibi teknik terimler kullanıcıya söylenmez; uydurma yasağı aynen geçerli.
+  - Yanıt tonu: samimi ve yardımsever — aranan kurs veride yoksa günlük dille söylenir; alternatif yalnızca sorunun konusuyla gerçekten ilgiliyse önerilir, ilgisizse İSMEK portalına (enstitu.ibb.istanbul) yönlendirilir. Model, kataloğun örnek dilim olduğunu bilir ve gerektiğinde bunu belirtir; uydurma yasağı aynen geçerli.
   - `bot/requirements.txt`: openai, sentence-transformers, chromadb, pytest.
 - **`veri/markdown_uret.py`** — `veri/kayitlar/*.json` içeriğinden statik RAG belgelerini üretir (amaç, ön koşullar, sınav, malzeme). Kayıt durumu/tarih gibi dinamik alanlar bilinçli olarak belgeye konmaz; onlar `app/sorgu.py` yapısal katmanından gelir.
 - **`app/api.py`** — yeni `POST /api/soru`: çözümleyici → yapısal sorgu + vektör arama → sentez; aşama süreleri, token ve maliyet dökümüyle döner. `GET /health` artık program sayısı + model adı verir.

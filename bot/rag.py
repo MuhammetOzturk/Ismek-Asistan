@@ -41,8 +41,9 @@ KANIT_SINIRI = 1200  # sentez istemine giren belge başına karakter
 SISTEM = """Sen İSMEK (İBB Enstitü) eğitim asistanısın; samimi, sıcak ve yardımsever konuşursun.
 Kurallar:
 1. Yalnızca sana verilen kanıt belgelerinden ve güncel yapısal sorgu sonucundan yanıt ver — asla uydurma.
-2. Aranan kurs veride yoksa bunu günlük dille söyle ("Şu an verimizde Linux kursu görünmüyor" gibi); \
-sonra eldeki kanıttan en yakın alternatifleri öner: "Şunlar ilginizi çekebilir: ...".
+2. Aranan kurs veride yoksa bunu günlük dille söyle ("Şu an verimizde Linux kursu görünmüyor" gibi). \
+Alternatif önerirken yalnızca sorunun KONUSUYLA gerçekten ilgili programları seç; konu ilgisizse \
+alternatif önerme, kullanıcıyı İSMEK portalına (enstitu.ibb.istanbul) yönlendir.
 3. Kanıt sorunun bir kısmını karşılıyorsa o kısmı yanıtla, eksik kısmı kısaca ve doğal biçimde belirt.
 4. Kanıtlardaki kurs tabloları eski çekimdir; kayıt durumu, tarih ve kontenjan sorularında \
 yalnız sana verilen güncel yapısal sorgu sonucuna dayan.
@@ -180,7 +181,7 @@ def sentezle(soru: str, kanitlar: list[dict], yapisal_satirlar: list[dict] | Non
     parcalar = []
     for s, k in enumerate(kanitlar, 1):
         parcalar.append(
-            f"[{s}] {k['program']} (BransCode {k['brans_code']})\n"
+            f"[{s}] {k['program']} (BransCode {k['brans_code']}) — benzerlik {k['skor']:.2f}\n"
             + k["govde"].replace("\n\n", "\n")[:KANIT_SINIRI]
         )
     kanit_metni = "\n\n".join(parcalar) or "(kanıt yok)"
@@ -194,10 +195,14 @@ def sentezle(soru: str, kanitlar: list[dict], yapisal_satirlar: list[dict] | Non
         ) or "(bu aramayla güncel kurs kaydı bulunamadı; aranan kurs varsa kaydı kapalı ya da ölçütler uyuşmuyor demektir)"
         guncel = (f"\n\nGÜNCEL YAPISAL SORGU SONUCU (tek doğruluk kaynağı — kayıt "
                   f"durumu/tarih/kontenjan için):\n{satir_metni}")
+    n = _koleksiyon.count() if _koleksiyon is not None else len(belgeleri_yukle())
+    kapsam = (f"\n\nVERİ KAPSAMI: Elindeki katalog İSMEK'in tam listesi değildir; yalnızca {n} "
+              f"programlık örnek bir dilimdir. Aranan program dilimde yoksa tam katalogda olabilir — "
+              f"gerekirse bunu doğal biçimde belirterek kullanıcıyı İSMEK portalına yönlendir.")
     return chat(
         [{"role": "system", "content": SISTEM},
          {"role": "user", "content":
-          f"Kanıt belgeler:\n\n{kanit_metni}{guncel}\n\nSoru: {soru}"}],
+          f"Kanıt belgeler:\n\n{kanit_metni}{guncel}{kapsam}\n\nSoru: {soru}"}],
         etiket="rag-sentez", max_tokens=max_tokens,
     )
 
