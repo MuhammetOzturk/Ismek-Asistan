@@ -18,15 +18,32 @@ Projenin iki bileşeni bu gün depoya eklendi:
 
 ## 3. Gün
 
-Sorgu API'sinin üzerine tek sayfa web arayüzü eklendi:
+Doğal dil sorusu → kanıtlı yanıt hattı (RAG) ve web arayüzü eklendi:
 
-- **`app/web.py`** — arayüz sayfası (`SAYFA`): filtre formu (program adı, ilçe, bölüm, kayıt durumu), hazır örnek sorgu çipleri ve `/ozet`'ten beslenen istatistik şeridi. Sayfa JSON uç noktalarını `fetch` ile çağırır; harici/CDN bağımlılığı yok.
-- **`app/api.py`** — yeni `GET /` rotası arayüzü sunar; API ile arayüz aynı süreçte: `uvicorn app.api:app --port 8000` → `http://127.0.0.1:8000` (Docker görüntüsü de aynı dosyayla ayağa kalkar).
-- Derin bağlantı desteği: filtreler URL'den okunur — ör. `http://127.0.0.1:8000/?kayit=acik` açılır açılmaz kaydı açık kursları sorgulayıp tabloyu doldurur.
+- **`bot/`** — RAG motoru:
+  - `bot/istemci.py`: çok sağlayıcı ücretsiz LLM hattı (Groq > HF > Gemini; 402/429'da sıradakine geçer) + token/maliyet muhasebesi.
+  - `bot/sorgu_cozumleyici.py`: Türkçe soru → JSON filtre. Guardrail: LLM çıktısı kullanıcıya içerik olarak gösterilmez, yalnız yapısal sorguya parametre olur.
+  - `bot/rag.py`: e5 (`multilingual-e5-small`) vektör araması — ChromaDB üzerinde `veri/markdown/*.md` statik belgeleri (`passage: ` / `query: ` prefix kuralıyla) — ve kanıtlı LLM sentezi.
+- **`veri/markdown_uret.py`** — `veri/kayitlar/*.json` içeriğinden statik RAG belgelerini üretir (amaç, ön koşullar, sınav, malzeme). Kayıt durumu/tarih gibi dinamik alanlar bilinçli olarak belgeye konmaz; onlar `app/sorgu.py` yapısal katmanından gelir.
+- **`app/api.py`** — yeni `POST /api/soru`: çözümleyici → yapısal sorgu + vektör arama → sentez; aşama süreleri, token ve maliyet dökümüyle döner. `GET /health` artık program sayısı + model adı verir.
+- **`app/web.py`** — tek sayfa arayüz: doğal dil soru kutusu + örnek soru çipleri (yanıt, vektör kanıt skorları, performans/filtre paneli) ve yapısal filtre formu. Derin bağlantı: `/?soru=...` (RAG) veya `/?kayit=acik` (yapısal).
+- **`app/sorgu.py`** — `arama` filtresi artık program ve bölüm adında substring eşleşir (çözümleyici "pastacılık" gibi bölüm adı döndürünce de satır döner).
 
-Örnek sorgu sonucu — "Kaydı açık tüm kurslar" çipi (`?kayit=acik`, 4 kurs):
+Çalıştırma (repo kökünden, LLM için `GROQ_API_KEY` env'de):
 
-![Web arayüzünde örnek sorgu sonucu — kaydı açık 4 kurs listeleniyor](docs/gun3-web-arayuz.png)
+```
+python3 veri/markdown_uret.py        # bir kez: veri/markdown/*.md
+python3 bot/rag.py --kur             # bir kez: vektör indeksini kur
+uvicorn app.api:app --port 8000      # http://127.0.0.1:8000
+```
+
+Örnek sorgu sonucu — "Butik Çikolata Hazırlama programının amacı nedir, ön koşulu var mı?": yanıt, e5 kanıt skorları ve aşama performansı:
+
+![RAG yanıtı — kanıt skorları, performans ve yapısal tablo](docs/gun3-rag-sohbet.png)
+
+Yapısal filtre arayüzü — "Kaydı açık tüm kurslar" çipi (4 kurs):
+
+![Yapısal sorgu arayüzünde örnek sonuç](docs/gun3-web-arayuz.png)
 
 **Katki Saglayanlar:**
 - Muhammet Ozturk

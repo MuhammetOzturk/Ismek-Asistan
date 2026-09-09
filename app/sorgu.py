@@ -81,6 +81,8 @@ def sorgula(
     ilce: önek eşleşmesi (kampüs adları ilçe adını taşıyabilir:
     "AVCILAR GÜMÜŞPALA" — bilinçli tercih, H3 taksonomisi bağlar).
     kayit_acik: True → kayıda açık, False → kapalı, None → fark etmez.
+    arama: program VE bölüm adında substring — çözümleyici "pastacılık"
+    gibi bölüm adını terim olarak verirse de satır dönmesi için (Gün 3 RAG).
     """
     satirlar = [kurs_satiri(k, c) for k in kayitlar for c in k["kurslar"]]
     if ilce:
@@ -94,7 +96,8 @@ def sorgula(
         satirlar = [s for s in satirlar if _kucuk(verilis) in _kucuk(s["verilis"])]
     if arama:
         terim = _kucuk(arama)
-        satirlar = [s for s in satirlar if terim in _kucuk(s["program"])]
+        satirlar = [s for s in satirlar
+                    if terim in _kucuk(s["program"]) or terim in _kucuk(s["bolum"])]
     satirlar.sort(key=lambda s: (s["baslangic"], s["brans_code"]))
     return satirlar[:limit] if limit else satirlar
 

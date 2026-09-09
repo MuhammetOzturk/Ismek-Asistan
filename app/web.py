@@ -65,15 +65,60 @@ SAYFA = """<!doctype html>
          background: #fff; border: 1px dashed #c8d1d8; color: #51606e; }
   footer { max-width: 1100px; margin: 0 auto; padding: 0 20px 30px;
            color: #7a8692; font-size: .82rem; }
+  #nlbtn { padding: 9px 26px; border: 0; border-radius: 8px; background: #0f5132;
+          color: #fff; font-size: .95rem; cursor: pointer; }
+  #nlbtn:disabled { opacity: .6; cursor: wait; }
+  #nlcips { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 2px 0; }
+  #nlcips button { padding: 6px 13px; font-size: .85rem; border-radius: 999px;
+          border: 1px solid #bcd8cb; background: #fff; color: #0a5c40; cursor: pointer; }
+  #nlcips button:hover { background: var(--acik-ar); }
+  #nlsonuc { margin-top: 14px; display: grid; gap: 12px; }
+  .nl-panel { background: #fff; border: 1px solid #dfe5ea; border-radius: 12px;
+          padding: 14px 16px; }
+  .nl-panel h3 { margin: 0 0 8px; font-size: .8rem; text-transform: uppercase;
+          letter-spacing: .4px; color: #51606e; }
+  #nlcevap { white-space: pre-wrap; font-size: .98rem; line-height: 1.55; }
+  .nl-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  #nlkanit { margin: 0; padding-left: 16px; font-size: .88rem; }
+  #nlkanit li { margin: 5px 0; }
+  .skor { display: inline-block; height: 6px; border-radius: 3px; background: var(--yesil);
+          vertical-align: middle; margin-right: 6px; }
+  #nlperf { margin: 0; white-space: pre-wrap; font-size: .82rem; color: #51606e; }
+  #nlhata { margin-top: 12px; padding: 12px 16px; border-radius: 10px;
+          background: #fdecec; border: 1px solid #f0b7b7; color: #9b2626; }
+
+
 </style>
 </head>
 <body>
 <header>
   <h1>İSMEK Kurs Arama</h1>
-  <p>İstanbul'daki İSMEK kursları — yapısal sorgu arayüzü</p>
+  <p>İstanbul'daki İSMEK kursları — RAG asistan: doğal dil sorusu + yapısal sorgu</p>
 </header>
 <main>
   <section id="ozet" aria-label="Veri özeti"></section>
+
+  <section id="sohbet">
+    <form id="nlform">
+      <input id="nlsoru" type="text"
+             placeholder="Doğal dilde sor: Kayda açık pastacılık kursu hangi merkezde?">
+      <button id="nlbtn" type="submit">Sor</button>
+    </form>
+    <div id="nlcips">
+      <button type="button" data-soru="Butik Çikolata Hazırlama programının amacı nedir, ön koşulu var mı?">Butik Çikolata — amaç</button>
+      <button type="button" data-soru="Kayda açık pastacılık kursu hangi merkezde, ne zaman başlıyor?">Açık pastacılık kursu</button>
+      <button type="button" data-soru="Uzaktan eğitimle verilen kurslar hangileri?">Uzaktan eğitim kursları</button>
+      <button type="button" data-soru="Kahve Yapımı kursuna kayıt olabilir miyim?">Kahve kursu kayıt durumu</button>
+    </div>
+    <section id="nlhata" hidden></section>
+    <section id="nlsonuc" hidden>
+      <div class="nl-panel"><h3>Yanıt</h3><div id="nlcevap"></div></div>
+      <div class="nl-grid">
+        <div class="nl-panel"><h3>Vektör kanıtları (e5 kosinüs)</h3><ul id="nlkanit"></ul></div>
+        <div class="nl-panel"><h3>Performans</h3><pre id="nlperf"></pre></div>
+      </div>
+    </section>
+  </section>
 
   <form id="form">
     <input id="arama" type="text" placeholder="Program adı (ör. pasta)">
@@ -108,8 +153,8 @@ SAYFA = """<!doctype html>
   <section id="hata" hidden></section>
 </main>
 <footer>
-  Veri kaynağı: veri/kayitlar/*.json (topla.py koşumu) · JSON uç noktaları:
-  GET /health, GET /ozet, GET /kurslar, GET /programlar/&lt;brans_code&gt;
+  Veri kaynağı: veri/kayitlar/*.json (topla.py koşumu) · Uç noktalar:
+  GET /health, GET /ozet, GET /kurslar, GET /programlar/&lt;brans_code&gt;, POST /api/soru
 </footer>
 <script>
 "use strict";
@@ -202,6 +247,75 @@ for (const cip of document.querySelectorAll("#ornekler button")) {
   });
 }
 
+// ---- Gün 3: doğal dil sorusu → POST /api/soru (RAG hattı) ----
+async function nlSor() {
+  const soru = $("nlsoru").value.trim();
+  if (!soru) return;
+  const btn = $("nlbtn");
+  btn.disabled = true;
+  btn.textContent = "İşleniyor…";
+  $("nlhata").hidden = true;
+  $("nlsonuc").hidden = true;
+  try {
+    const r = await fetch("/api/soru", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ soru }),
+    });
+    const d = await r.json();
+    if (!r.ok) throw new Error(d.detail || r.status);
+    nlGoster(d);
+  } catch (e) {
+    $("nlhata").textContent = "Hata: " + e.message;
+    $("nlhata").hidden = false;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = "Sor";
+  }
+}
+
+function nlGoster(d) {
+  $("nlsonuc").hidden = false;
+  $("nlcevap").innerHTML = kacir(d.yanit).split("**")
+    .map((p, i) => i % 2 ? "<b>" + p + "</b>" : p).join("");
+  $("nlkanit").textContent = "";
+  for (const k of d.vektor.kanitlar) {
+    const li = document.createElement("li");
+    li.innerHTML = '<span class="skor" style="width:' + Math.round(k.skor * 60) + 'px"></span>'
+      + k.skor.toFixed(3) + " — " + kacir(k.program)
+      + ' <span class="kod">BransCode ' + k.brans_code + "</span>";
+    $("nlkanit").appendChild(li);
+  }
+  const m = d.maliyet;
+  $("nlperf").textContent =
+    "çözümleyici: " + d.filtre_sure.toFixed(2) + " sn (" + m.cozumleyici.giris + "+"
+    + m.cozumleyici.cikis + " tok, $" + m.cozumleyici.usd.toFixed(6) + ")\\n"
+    + "vektör: " + d.vektor.sure.toFixed(2) + " sn (" + d.vektor.kanitlar.length + " kanıt)\\n"
+    + "sentez: " + d.sentez_sure.toFixed(2) + " sn (" + m.sentez.giris + "+"
+    + m.sentez.cikis + " tok, $" + m.sentez.usd.toFixed(6) + ")\\n"
+    + "yapısal: " + d.yapisal_sure.toFixed(3) + " sn (" + d.yapisal.sayi + " kurs)\\n"
+    + "TOPLAM: " + d.toplam_sure.toFixed(2) + " sn · $" + m.toplam.usd.toFixed(6) + "\\n"
+    + "filtre: " + JSON.stringify(d.filtre);
+  // Çözümleyicinin çıkardığı filtre yapısal forma da yazılır: hat görünür olur.
+  $("arama").value = d.filtre.arama_terimi || "";
+  $("ilce").value = d.filtre.ilce || "";
+  $("bolum").value = "";
+  $("kayit").value = d.filtre.kayit_durumu || "";
+  tabloDoldur(d.yapisal.satirlar);
+}
+
+$("nlform").addEventListener("submit", (olay) => {
+  olay.preventDefault();
+  nlSor();
+});
+
+for (const cip of document.querySelectorAll("#nlcips button")) {
+  cip.addEventListener("click", () => {
+    $("nlsoru").value = cip.dataset.soru;
+    nlSor();
+  });
+}
+
 (async () => {
   try {
     const o = await (await fetch("/ozet")).json();
@@ -223,9 +337,10 @@ for (const cip of document.querySelectorAll("#ornekler button")) {
 })();
 
 (async () => {
-  // Derin bağlantı: ?arama=..&ilce=..&bolum=..&kayit=acik — alanları doldurup koştur.
+  // Derin bağlantı: ?soru=.. (RAG) veya ?arama=..&ilce=..&bolum=..&kayit=acik — doldurup koştur.
   const p = new URLSearchParams(location.search);
   if (![...p.keys()].length) return;
+  if (p.get("soru")) { $("nlsoru").value = p.get("soru"); nlSor(); return; }
   for (const id of ["arama", "ilce", "bolum"]) if (p.get(id)) $(id).value = p.get(id);
   if (p.get("kayit")) $("kayit").value = p.get("kayit");
   sorgula();
