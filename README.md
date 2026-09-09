@@ -58,6 +58,6 @@ https://github.com/user-attachments/assets/fd8cc260-12ff-4709-9a6d-a54b8e11cfb5
 
 
 **Katki Saglayanlar:**
-- Muhammet Ozturk
-- Furkan Kurt
-- Bekir Yildirim
+- [Muhammet Ozturk](https://github.com/MuhammetOzturk)
+- [Furkan Kurt](https://github.com/f-oca)
+- [Bekir Yildirim](https://github.com/bekiryildirim0)
