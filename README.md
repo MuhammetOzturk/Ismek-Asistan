@@ -51,11 +51,9 @@ Yapısal filtre arayüzü — "Kaydı açık tüm kurslar" çipi (tam katalogda 
 
 ![Yapısal sorgu arayüzünde örnek sonuç](docs/gun3-web-arayuz.png)
 
-Kullanım demosu (40 sn, ses yok) — doğal dil sorusu yazma, RAG yanıt panelleri ve yapısal filtre:
+Kullanım videosu (40 sn) — doğal dil sorusu yazma, RAG yanıt panelleri ve yapısal filtre:
 
-![İSMEK asistan kullanım demosu](docs/kullanim-videosu.gif)
-
-Tam video (daha akıcı): [docs/kullanim-videosu.mp4](docs/kullanim-videosu.mp4)
+[İSMEK asistan kullanım videosu](docs/kullanim-videosu.mp4)
 
 **Katki Saglayanlar:**
 - Muhammet Ozturk
