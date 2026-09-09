@@ -5,13 +5,20 @@ Sağlık uç noktası: GET /health — docker-compose healthcheck ve CI bekliyor
 Veri: ISMEK_VERI_DIR env (default <repo>/veri; Docker/CI: veri/ornek fixture).
 """
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import HTMLResponse
 
 from app.sorgu import istatistik, sorgula, yukle
+from app.web import SAYFA
 
 app = FastAPI(title="İSMEK Sorgu API", version="0.1.0")
 
 # Import anında bir kez yüklenir: fixture/durum sabit, testler deterministik.
 KAYITLAR = yukle()
+
+@app.get("/", response_class=HTMLResponse)
+def ana_sayfa() -> str:
+    """Gün 3 web arayüzü — tek sayfa; sorguları /kurslar'a fetch'ler."""
+    return SAYFA
 
 
 @app.get("/health")

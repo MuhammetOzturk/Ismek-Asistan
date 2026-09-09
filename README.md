@@ -16,6 +16,18 @@ Projenin iki bileşeni bu gün depoya eklendi:
 - **`veri/`** — `topla.py` çıktısı veri katmanı: `kayitlar/*.json` (5 program kaydı, tek doğruluk kaynağı) ve koşum özeti `ozet.json`.
 
 
+## 3. Gün
+
+Sorgu API'sinin üzerine tek sayfa web arayüzü eklendi:
+
+- **`app/web.py`** — arayüz sayfası (`SAYFA`): filtre formu (program adı, ilçe, bölüm, kayıt durumu), hazır örnek sorgu çipleri ve `/ozet`'ten beslenen istatistik şeridi. Sayfa JSON uç noktalarını `fetch` ile çağırır; harici/CDN bağımlılığı yok.
+- **`app/api.py`** — yeni `GET /` rotası arayüzü sunar; API ile arayüz aynı süreçte: `uvicorn app.api:app --port 8000` → `http://127.0.0.1:8000` (Docker görüntüsü de aynı dosyayla ayağa kalkar).
+- Derin bağlantı desteği: filtreler URL'den okunur — ör. `http://127.0.0.1:8000/?kayit=acik` açılır açılmaz kaydı açık kursları sorgulayıp tabloyu doldurur.
+
+Örnek sorgu sonucu — "Kaydı açık tüm kurslar" çipi (`?kayit=acik`, 4 kurs):
+
+![Web arayüzünde örnek sorgu sonucu — kaydı açık 4 kurs listeleniyor](docs/gun3-web-arayuz.png)
+
 **Katki Saglayanlar:**
 - Muhammet Ozturk
 - Furkan Kurt
