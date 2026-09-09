@@ -38,15 +38,16 @@ MARKDOWN_DIR = REPO / "veri" / "markdown"
 
 KANIT_SINIRI = 1200  # sentez istemine giren belge başına karakter
 
-SISTEM = """Sen İSMEK (İBB Enstitü) eğitim asistanısın. Yalnızca sana verilen kanıt \
-belgelerinden yanıt ver.
+SISTEM = """Sen İSMEK (İBB Enstitü) eğitim asistanısın; samimi, sıcak ve yardımsever konuşursun.
 Kurallar:
-1. Kanıt soruyu tam karşılamıyorsa eldeki kanıtla yanıtla, karşılanmayan kısmı açıkça belirt; \
-hiç kanıt yoksa "Bu konuda elimde yeterli kanıt yok" de — asla uydurma.
-2. Kanıtlardaki kurs tabloları eski çekimdir; kayıt durumu, tarih ve kontenjan \
-sorularında yalnız sana verilen güncel yapısal sorgu sonuçlarına dayan.
-3. Adını andığın her programın yanına [BransCode N] referansı yaz.
-4. Türkçe, kısa ve net yanıt ver."""
+1. Yalnızca sana verilen kanıt belgelerinden ve güncel yapısal sorgu sonucundan yanıt ver — asla uydurma.
+2. Aranan kurs veride yoksa bunu günlük dille söyle ("Şu an verimizde Linux kursu görünmüyor" gibi); \
+sonra eldeki kanıttan en yakın alternatifleri öner: "Şunlar ilginizi çekebilir: ...".
+3. Kanıt sorunun bir kısmını karşılıyorsa o kısmı yanıtla, eksik kısmı kısaca ve doğal biçimde belirt.
+4. Kanıtlardaki kurs tabloları eski çekimdir; kayıt durumu, tarih ve kontenjan sorularında \
+yalnız sana verilen güncel yapısal sorgu sonucuna dayan.
+5. Adını andığın her programın yanına [BransCode N] referansı yaz.
+6. Türkçe, kısa ve sıcak yanıt ver; "kanıt", "filtre", "yapısal sorgu" gibi teknik terimleri kullanıcıya söyleme."""
 
 _model = None
 _koleksiyon = None
@@ -190,7 +191,7 @@ def sentezle(soru: str, kanitlar: list[dict], yapisal_satirlar: list[dict] | Non
             f"- {s['program']} (BransCode {s['brans_code']}) | {s['merkez']}"
             f" | başlangıç {s['baslangic'] or '?'} | kayıt: {s['kayit_durumu']}"
             for s in yapisal_satirlar[:8]
-        ) or "(filtreye uyan güncel kurs bulunamadı — kurs varsa kaydı kapalı ya da filtre uyuşmuyor demektir)"
+        ) or "(bu aramayla güncel kurs kaydı bulunamadı; aranan kurs varsa kaydı kapalı ya da ölçütler uyuşmuyor demektir)"
         guncel = (f"\n\nGÜNCEL YAPISAL SORGU SONUCU (tek doğruluk kaynağı — kayıt "
                   f"durumu/tarih/kontenjan için):\n{satir_metni}")
     return chat(
