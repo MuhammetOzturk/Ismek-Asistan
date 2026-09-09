@@ -28,7 +28,7 @@ Doğal dil sorusu → kanıtlı yanıt hattı (RAG) ve web arayüzü eklendi:
   - `bot/requirements.txt`: openai, sentence-transformers, chromadb, pytest.
 - **`topla.py`** — İSMEK portalının PageMethods JSON API'sinden tam katalogu toplayan nazik toplayıcı (kayitlar + markdown + ozet üretir; devam edebilir, `python3 topla.py`). RAG'ın statik belgeleri (`veri/markdown/*.md`: amaç, ön koşullar, sınav, malzeme) bu koşumdan gelir; kayıt durumu/tarih gibi dinamik alanlar bilinçli olarak belgeye konmaz — onlar `app/sorgu.py` yapısal katmanından gelir.
 - **`app/api.py`** — yeni `POST /api/soru`: çözümleyici → yapısal sorgu + vektör arama → sentez; aşama süreleri, token ve maliyet dökümüyle döner. `GET /health` artık program sayısı + model adı verir.
-- **`app/web.py`** — tek sayfa arayüz: doğal dil soru kutusu + örnek soru çipleri (yanıt, vektör kanıt skorları, performans/filtre paneli) ve yapısal filtre formu. Derin bağlantı: `/?soru=...` (RAG) veya `/?kayit=acik` (yapısal).
+- **`app/web.py`** — tek sayfa arayüz: doğal dil soru kutusu + örnek soru çipleri (yanıt, vektör kanıt skorları, performans/filtre paneli) ve yapısal filtre formu. Derin bağlantı: `/?soru=...` (RAG) veya `/?kayit=acik` (yapısal). Yanıtta, kanıtlarda ve tablodaki BransCode referansları İSMEK portal program sayfasına bağlantıdır.
 - **`app/sorgu.py`** — `arama` filtresi artık program ve bölüm adında substring eşleşir (çözümleyici "pastacılık" gibi bölüm adı döndürünce de satır döner) ve şapkalı harf duyarsızdır ("zeka" ↔ "Zekâ").
 
 Çalıştırma (repo kökünden, LLM için `GROQ_API_KEY` env'de):

@@ -88,6 +88,9 @@ SAYFA = """<!doctype html>
           background: #fdecec; border: 1px solid #f0b7b7; color: #9b2626; }
 
 
+  main a { color: #0a5c40; }
+  main a:hover { text-decoration: underline; }
+
 </style>
 </head>
 <body>
@@ -175,6 +178,17 @@ function tarih(k) {
   return String(k ?? "").slice(0, 10);
 }
 
+function portal(kod) {
+  return '<a class="kod" href="https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode='
+    + kod + '" target="_blank" rel="noopener">[BransCode ' + kod + ']</a>';
+}
+
+function portalBagla(metin) {
+  return metin
+    .replace(/[[]BransCode\\s*([0-9]+)[]]/g, function(_, kod) { return portal(kod); })
+    .replace(/[(]BransCode\\s*([0-9]+)[)]/g, function(_, kod) { return portal(kod); });
+}
+
 function tabloDoldur(satirlar) {
   $("hata").hidden = true;
   $("bos").hidden = satirlar.length > 0;
@@ -189,7 +203,7 @@ function tabloDoldur(satirlar) {
       : '<span class="pil kapali">Kapalı · ' + kacir(s.kayit_durumu) + "</span>";
     tr.innerHTML =
       '<td><span class="prog">' + kacir(s.program) + '</span><br>' +
-      '<span class="kod">BransCode ' + s.brans_code + "</span></td>" +
+      portal(s.brans_code) + "</td>" +
       "<td>" + kacir(s.bolum) + "</td>" +
       "<td>" + kacir(s.merkez) + "</td>" +
       "<td>" + kacir(s.ilce) + "</td>" +
@@ -276,14 +290,14 @@ async function nlSor() {
 
 function nlGoster(d) {
   $("nlsonuc").hidden = false;
-  $("nlcevap").innerHTML = kacir(d.yanit).split("**")
-    .map((p, i) => i % 2 ? "<b>" + p + "</b>" : p).join("");
+  $("nlcevap").innerHTML = portalBagla(kacir(d.yanit).split("**")
+    .map((p, i) => i % 2 ? "<b>" + p + "</b>" : p).join(""));
   $("nlkanit").textContent = "";
   for (const k of d.vektor.kanitlar) {
     const li = document.createElement("li");
     li.innerHTML = '<span class="skor" style="width:' + Math.round(k.skor * 60) + 'px"></span>'
       + k.skor.toFixed(3) + " — " + kacir(k.program)
-      + ' <span class="kod">BransCode ' + k.brans_code + "</span>";
+      + " " + portal(k.brans_code);
     $("nlkanit").appendChild(li);
   }
   const m = d.maliyet;
