@@ -47,9 +47,13 @@ Veride olmayan bir kurs sorulduğunda asistan uydurmaz; günlük dille söyler v
 
 ![RAG yanıtı — kanıt skorları, performans ve yapısal tablo](docs/gun3-rag-sohbet.png)
 
-Yapısal filtre arayüzü — "Kaydı açık tüm kurslar" çipi (4 kurs):
+Yapısal filtre arayüzü — "Kaydı açık tüm kurslar" çipi (tam katalogda 4675 açık kurs, ilk 30 satır gösterilir):
 
 ![Yapısal sorgu arayüzünde örnek sonuç](docs/gun3-web-arayuz.png)
+
+Kullanım videosu (40 sn) — doğal dil sorusu yazma, RAG yanıt panelleri ve yapısal filtre:
+
+[İSMEK asistan kullanım videosu](docs/kullanim-videosu.mp4)
 
 **Katki Saglayanlar:**
 - Muhammet Ozturk
