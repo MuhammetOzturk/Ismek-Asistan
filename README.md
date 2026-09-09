@@ -53,7 +53,9 @@ Yapısal filtre arayüzü — "Kaydı açık tüm kurslar" çipi (tam katalogda 
 
 Kullanım videosu (40 sn) — doğal dil sorusu yazma, RAG yanıt panelleri ve yapısal filtre:
 
-[İSMEK asistan kullanım videosu](docs/kullanim-videosu.mp4)
+https://github.com/user-attachments/assets/fd8cc260-12ff-4709-9a6d-a54b8e11cfb5
+
+
 
 **Katki Saglayanlar:**
 - Muhammet Ozturk
